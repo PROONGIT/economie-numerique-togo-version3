@@ -674,7 +674,7 @@ elif page == "services":
         st.markdown(f"##### {'Banques par canton' if lang=='fr' else 'Banks by canton'}")
         choropleth("n_banques",
                    "Nb banques" if lang=="fr" else "Nb banks",
-                   colorscale="Blues",
+                   colorscale="Viridis",
                    regions=sel_regions_eff, height=500)
        
     with tab_mfi:
@@ -702,23 +702,6 @@ elif page == "services":
                 hover_data={"region":True,"n_banques":True,"n_poste":True})
             fig2.update_layout(**PLOT_KW, height=max(400,26*len(d)), coloraxis_showscale=False)
             st.plotly_chart(fig2, use_container_width=True)
-
-    # Analyse dynamique
-    mar_b  = ind_canton[ind_canton["region"]=="Maritime"]["n_banques"].sum()
-    mar_d  = ind_canton[ind_canton["region"]=="Maritime"]["n_distributeurs"].sum()
-    tot_b  = ind_canton["n_banques"].sum()
-    tot_d  = ind_canton["n_distributeurs"].sum()
-    mfi_hm = int(ind_f[ind_f["region"]!="Maritime"]["n_mfi"].sum())
-    tot_mfi= int(ind_canton["n_mfi"].sum())
-    pct_mfi= round(mfi_hm/tot_mfi*100) if tot_mfi else 0
-
-    analysis_box(t("services_dynamic_insight",lang).format(
-        n_banques=n_banques, n_mfi=n_mfi, n_poste=n_poste, n_distrib=n_distrib,
-        concentration_txt=t("services_concentration_txt",lang).format(
-            pct_banques_maritime=round(mar_b/tot_b*100) if tot_b else 0,
-            pct_distrib_maritime=round(mar_d/tot_d*100) if tot_d else 0),
-        n_mfi_hors_maritime=mfi_hm, pct_mfi_hors=pct_mfi,
-        n_distrib_maritime=int(mar_d), n_distrib_total=int(tot_d)))
     
     # Ratio services financiers / population par région
     if not agg_reg.empty and "population" in agg_reg.columns:
@@ -756,7 +739,23 @@ elif page == "services":
             st.plotly_chart(fig3, use_container_width=True)
         else:
             st.warning("Aucune donnée financière disponible pour calculer le ratio par région.")
+          
+    # Analyse dynamique
+    mar_b  = ind_canton[ind_canton["region"]=="Maritime"]["n_banques"].sum()
+    mar_d  = ind_canton[ind_canton["region"]=="Maritime"]["n_distributeurs"].sum()
+    tot_b  = ind_canton["n_banques"].sum()
+    tot_d  = ind_canton["n_distributeurs"].sum()
+    mfi_hm = int(ind_f[ind_f["region"]!="Maritime"]["n_mfi"].sum())
+    tot_mfi= int(ind_canton["n_mfi"].sum())
+    pct_mfi= round(mfi_hm/tot_mfi*100) if tot_mfi else 0
 
+    analysis_box(t("services_dynamic_insight",lang).format(
+        n_banques=n_banques, n_mfi=n_mfi, n_poste=n_poste, n_distrib=n_distrib,
+        concentration_txt=t("services_concentration_txt",lang).format(
+            pct_banques_maritime=round(mar_b/tot_b*100) if tot_b else 0,
+            pct_distrib_maritime=round(mar_d/tot_d*100) if tot_d else 0),
+        n_mfi_hors_maritime=mfi_hm, pct_mfi_hors=pct_mfi,
+        n_distrib_maritime=int(mar_d), n_distrib_total=int(tot_d)))
 
     st.subheader("Détail par préfecture" if lang=="fr" else "Detail by prefecture")
     svc_cols = [c for c in ["region","prefecture","n_banques","n_mfi","n_poste",
