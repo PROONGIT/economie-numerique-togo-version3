@@ -336,7 +336,7 @@ if page == "overview":
             fig = go.Figure()
             fig.add_trace(go.Bar(
                 x=gr_f["region"], y=gr_f["couverture_mobile_moy"],
-                name="Couv. mobile %", marker_color=T["green"], borderradius=4))
+                name="Couv. mobile %", marker_color=T["green"], marker_corner_radius=4))
             fig.add_trace(go.Bar(
                 x=gr_f["region"], y=gr_f["mm_1km_pct_moy"],
                 name="% pop <1km MM", marker_color=T["yellow"], borderradius=4))
