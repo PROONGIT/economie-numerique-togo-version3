@@ -345,12 +345,12 @@ if page == "overview":
             fig.update_yaxes(range=[0,100], ticksuffix="%")
             st.plotly_chart(fig, use_container_width=True)
 
-        st.markdown("###")
-        st.subheader(t("ov_findings_title",lang))
-        for k in ["ov_f1","ov_f2","ov_f3","ov_f4","ov_f5"]:
-            style = "alert" if k in ("ov_f1","ov_f4") \
-                    else ("warn" if k in ("ov_f2","ov_f3") else "normal")
-            analysis_box(t(k,lang), style)
+      st.markdown("###")
+      st.subheader(t("ov_findings_title",lang))
+      for k in ["ov_f1","ov_f2","ov_f3","ov_f4","ov_f5"]:
+          style = "alert" if k in ("ov_f1","ov_f4") \
+                  else ("warn" if k in ("ov_f2","ov_f3") else "normal")
+          analysis_box(t(k,lang), style)
 
 # ══════════════════════════════════════════════════════
 # PAGE : AGENCES & DATACENTERS
