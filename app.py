@@ -724,28 +724,41 @@ elif page == "services":
     if not agg_reg.empty and "population" in agg_reg.columns:
         st.markdown("###")
         st.markdown(f"##### {'Ratio services financiers pour 100 000 habitants' if lang=='fr' else 'Financial services per 100,000 inhabitants'}")
-        merged = agg_reg.merge(gr_f[["region","n_banques","n_mfi","n_poste","n_distributeurs"]],
+        
+        # 1. Fusion des données
+        merged = agg_reg.merge(gr_f[["region", "n_banques", "n_mfi", "n_poste", "n_distributeurs"]],
                                on="region", how="left")
-        for col_s, lbl in [("n_banques","Banques"),("n_mfi","MFI"),
-                            ("n_poste","Poste"),("n_distributeurs","ATM")]:
-            if col_s in merged.columns:
-                merged[col_s+"_100k"] = (merged[col_s]/merged["population"]*100000).round(1)
+        
+        # 2. Remplacement des valeurs manquantes (NaN) par 0 pour éviter les calculs vides
+        for col in ["n_banques", "n_mfi", "n_poste", "n_distributeurs"]:
+            if col in merged.columns:
+                merged[col] = merged[col].fillna(0)
+                merged[col+"_100k"] = (merged[col] / merged["population"] * 100000).round(1)
+                
         ratio_cols = [c for c in merged.columns if c.endswith("_100k")]
+        
+        # 3. Affichage du graphique
         if ratio_cols:
             fig3 = go.Figure()
-            colors_svc = [T["green"],T["yellow"],T["red"],"#7A4FA0"]
-            for i,(col_s,lbl) in enumerate([("n_banques_100k","Banques"),
-                                             ("n_mfi_100k","MFI"),
-                                             ("n_poste_100k","Poste"),
-                                             ("n_distributeurs_100k","ATM")]):
+            colors_svc = [T["green"], T["yellow"], T["red"], "#7A4FA0"]
+            
+            for i, (col_s, lbl) in enumerate([("n_banques_100k", "Banques"),
+                                             ("n_mfi_100k", "MFI"),
+                                             ("n_poste_100k", "Poste"),
+                                             ("n_distributeurs_100k", "ATM")]):
                 if col_s in merged.columns:
                     fig3.add_trace(go.Bar(
                         x=merged["region"], y=merged[col_s],
-                        name=lbl, marker_color=colors_svc[i], borderradius=4))
+                        name=lbl, marker_color=colors_svc[i]))  # <-- Retrait de borderradius=4
+                        
             fig3.update_layout(**PLOT_KW, height=360, barmode="group",
                                yaxis_title="Pour 100 000 hab.",
-                               legend=dict(orientation="h",y=1.05))
+                               legend=dict(orientation="h", y=1.05))
             st.plotly_chart(fig3, use_container_width=True)
+        else:
+            # Sécurité : Si aucune donnée n'est calculée, on affiche un avertissement clair
+            st.warning("Aucune donnée financière disponible pour calculer le ratio par région.")
+
 
     st.subheader("Détail par préfecture" if lang=="fr" else "Detail by prefecture")
     svc_cols = [c for c in ["region","prefecture","n_banques","n_mfi","n_poste",
