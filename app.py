@@ -674,7 +674,7 @@ elif page == "services":
         st.markdown(f"##### {'Banques par canton' if lang=='fr' else 'Banks by canton'}")
         choropleth("n_banques",
                    "Nb banques" if lang=="fr" else "Nb banks",
-                   colorscale="Purples",
+                   colorscale="Greens",
                    regions=sel_regions_eff, height=500)
        
     with tab_mfi:
