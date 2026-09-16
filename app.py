@@ -339,7 +339,7 @@ if page == "overview":
                 name="Couv. mobile %", marker_color=T["green"]))
             fig.add_trace(go.Bar(
                 x=gr_f["region"], y=gr_f["mm_1km_pct_moy"],
-                name="% pop <1km MM", marker_color=T["yellow"], borderradius=4))
+                name="% pop <1km MM", marker_color=T["yellow"]))
             fig.update_layout(**PLOT_KW, height=300, barmode="group",
                               legend=dict(orientation="h", y=1.08))
             fig.update_yaxes(range=[0,100], ticksuffix="%")
