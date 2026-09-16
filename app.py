@@ -711,14 +711,6 @@ elif page == "services":
     mfi_hm = int(ind_f[ind_f["region"]!="Maritime"]["n_mfi"].sum())
     tot_mfi= int(ind_canton["n_mfi"].sum())
     pct_mfi= round(mfi_hm/tot_mfi*100) if tot_mfi else 0
-
-    analysis_box(t("services_dynamic_insight",lang).format(
-        n_banques=n_banques, n_mfi=n_mfi, n_poste=n_poste, n_distrib=n_distrib,
-        concentration_txt=t("services_concentration_txt",lang).format(
-            pct_banques_maritime=round(mar_b/tot_b*100) if tot_b else 0,
-            pct_distrib_maritime=round(mar_d/tot_d*100) if tot_d else 0),
-        n_mfi_hors_maritime=mfi_hm, pct_mfi_hors=pct_mfi,
-        n_distrib_maritime=int(mar_d), n_distrib_total=int(tot_d)))
     
     # Ratio services financiers / population par région
     if not agg_reg.empty and "population" in agg_reg.columns:
@@ -757,7 +749,13 @@ elif page == "services":
         else:
             st.warning("Aucune donnée financière disponible pour calculer le ratio par région.")
 
-
+    analysis_box(t("services_dynamic_insight",lang).format(
+        n_banques=n_banques, n_mfi=n_mfi, n_poste=n_poste, n_distrib=n_distrib,
+        concentration_txt=t("services_concentration_txt",lang).format(
+            pct_banques_maritime=round(mar_b/tot_b*100) if tot_b else 0,
+            pct_distrib_maritime=round(mar_d/tot_d*100) if tot_d else 0),
+        n_mfi_hors_maritime=mfi_hm, pct_mfi_hors=pct_mfi,
+        n_distrib_maritime=int(mar_d), n_distrib_total=int(tot_d)))
 
     st.subheader("Détail par préfecture" if lang=="fr" else "Detail by prefecture")
     svc_cols = [c for c in ["region","prefecture","n_banques","n_mfi","n_poste",
