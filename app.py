@@ -469,9 +469,9 @@ elif page == "mm":
                     min_reg=r.iloc[0]["region"], min_rate=r.iloc[0]["agents_mm_pour_10k_hab"],
                     max_reg=r.iloc[-1]["region"], max_rate=r.iloc[-1]["agents_mm_pour_10k_hab"],
                     ratio=ratio)
-        analysis_box(t("mm_dynamic_insight",lang).format(
-            rate=rate, national_rate=national_rate, nb_mm=nb_mm,
-            gap_txt=gap_txt, above_national_txt=above_txt, mm1km_moy=mm1km_moy))
+    analysis_box(t("mm_dynamic_insight",lang).format(
+        rate=rate, national_rate=national_rate, nb_mm=nb_mm,
+        gap_txt=gap_txt, above_national_txt=above_txt, mm1km_moy=mm1km_moy))
 
     how_to_read(t("mm_how_what",lang), t("mm_how_shows",lang))
 
