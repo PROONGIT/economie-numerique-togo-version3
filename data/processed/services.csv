@@ -1,0 +1,939 @@
+region,prefecture,commune,canton,nom,lat,lon,type_service
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BTCI Amadahome,6.20354,1.16543,banque
+Maritime,Golfe,Golfe 6,Baguida,BTCI Baguida,6.1675,1.3382,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BTCI Agbalepedogan,6.19762,1.20074,banque
+Plateaux,Ogou,Ogou 1,Gnagna,SUNU Bank Yata,7.51964,1.14038,banque
+Maritime,Golfe,Golfe 4,Amoutivé,Direction générale Siab Togo,6.12361,1.22459,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,UTB Agence Totsi,6.1965,1.18756,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),BTCI Sokode,8.98867,1.13894,banque
+Centrale,Mô,Mô 1,Djarkpanga,SPT Djarkpanga,8.78294,0.5641,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),ECOBANK Sokode,8.98845,1.13931,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Banque Atlantique Sokodé,8.98742,1.13971,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),BSIC Sokode,8.99039,1.13807,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),SPT Sokode,8.98505,1.14038,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),ORABANK Sokode,8.98812,1.13501,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),BOA Sokodé,8.98817,1.13942,banque
+Maritime,Golfe,Golfe 1,Bè-Est,SUNU Bank Akodessewa,6.14085,1.24098,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),CORIS Bank Sokode,8.98978,1.13834,banque
+Centrale,Tchamba,Tchamba 1,Tchamba,UTB Tchamba,9.02835,1.41589,banque
+Maritime,Golfe,Golfe 4,Amoutivé,ORABANK Nyékonakpoè,6.13009,1.21372,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),SUNU Bank Sokodé,8.97384,1.13629,banque
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,SUNU Bank Sotouboua,8.56456,0.97894,banque
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,UTB de Sotouboua,8.56132,0.97621,banque
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,ORABANK de Sotouboua,8.56078,0.97517,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Banque Atlantique Adidoadin,6.1998,1.18821,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),UTB Sokodé,8.98425,1.13975,banque
+Centrale,Tchaoudjo,Tchaoudjo 1,Kpangalam,SPT Kpangalam,9.00954,1.13619,banque
+Centrale,Blitta,Blitta 1,Pagala-Gare,SPT Pagala Gare,8.1839,0.96497,banque
+Centrale,Blitta,Blitta 1,Blitta,UTB Lamakaza,8.33103,0.98621,banque
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,SPT Sotouboua,8.56437,0.97758,banque
+Maritime,Golfe,Golfe 1,Bè-Est,BIA Togo de Be Apeyeyeme,6.14095,1.24033,banque
+Centrale,Sotouboua,Sotouboua 2,Adjengré,SPT ADjengre,8.65936,1.01905,banque
+Centrale,Blitta,Blitta 1,Blitta,STP Blitta,8.32469,0.97823,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,ORABANK Assiyeye,6.23293,1.19724,banque
+Maritime,Golfe,Golfe 1,Bè-Est,SGT Lomé Port,6.14323,1.27442,banque
+Maritime,Golfe,Golfe 6,Baguida,Banque Altantique Luxolin,6.16123,1.31581,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,CORIS Bank ADidogome Madiba,6.19799,1.15136,banque
+Maritime,Golfe,Golfe 6,Baguida,SPT Avepozo,6.1693,1.3447,banque
+Maritime,Golfe,Golfe 4,Amoutivé,BOA Dekon,6.13637,1.22686,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,CORIS Bank ADIDO-ADIN,6.20905,1.18949,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,IB Bank Agbalépédogan,6.19759,1.20084,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,NSIA Banque Agbalepedogan,6.18844,1.20758,banque
+Maritime,Golfe,Golfe 1,Bè-Est,BIA Togo Akodessewa,6.15543,1.26715,banque
+Maritime,Golfe,Golfe 1,Bè-Est,CORIS Bank d'Akodessewa,6.15892,1.28422,banque
+Maritime,Golfe,Golfe 1,Bè-Est,ORABANK du Port,6.13903,1.26661,banque
+Maritime,Golfe,Golfe 1,Bè-Est,SPT Akodessewa,6.15156,1.26723,banque
+Maritime,Golfe,Golfe 1,Bè-Est,BSIC Lomé Port,6.1434,1.27662,banque
+Maritime,Golfe,Golfe 6,Baguida,ORABANK Baguida,6.16452,1.32854,banque
+Maritime,Golfe,Golfe 6,Baguida,CORIS Bank Avepozo,6.16818,1.34057,banque
+Maritime,Golfe,Golfe 4,Amoutivé,ECOBANK Assivito,6.12922,1.22152,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,ORABANK Agence Terminal du Sahel,6.26898,1.21008,banque
+Maritime,Golfe,Golfe 1,Bè-Est,ECOBANK Akodessewa,6.15312,1.26578,banque
+Maritime,Golfe,Golfe 1,Bè-Est,ORABANK Port,6.14352,1.2744,banque
+Maritime,Golfe,Golfe 1,Bè-Est,BOA Lomé Port,6.14297,1.27451,banque
+Maritime,Golfe,Golfe 1,Bè-Est,ECOBANK Rond Point Port,6.14286,1.27453,banque
+Maritime,Golfe,Golfe 1,Bè-Est,UTB Lomé Port,6.14358,1.2748,banque
+Maritime,Golfe,Golfe 1,Bè-Est,SPT Lomé Port,6.1441,1.27555,banque
+Maritime,Golfe,Golfe 1,Bè-Est,BTCI Lomé Port,6.14311,1.27572,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,Banque Atlantique Agence Agbalepedogan,6.19135,1.20826,banque
+Maritime,Golfe,Golfe 6,Baguida,BOA Baguida,6.16254,1.32059,banque
+Maritime,Golfe,Golfe 6,Baguida,NSIA Baguida,6.16649,1.3349,banque
+Maritime,Golfe,Golfe 6,Baguida,BIA Togo Baguida,6.16122,1.31564,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,SPT Aeroport International Gnassingbe Eyadema,6.17427,1.25225,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,ECOBANK Aerogare,6.17415,1.2521,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,NSIA Banque Aeroport International Gnassingbe Eyadema,6.17067,1.25298,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,ORABANK Aéroport,6.17073,1.25311,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,SPT de L 'aeroport International Gnassingbe Eyadema,6.16822,1.25153,banque
+Maritime,Golfe,Golfe 1,Bè-Est,UTB Be Kpehenou,6.13838,1.23672,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BOA ADidogome,6.18599,1.16515,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,SPT de La Residence du Benin,6.1733,1.22285,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,NSIA Assurance Avé Maria,6.17324,1.1859,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,UTB Adidoadin,6.20528,1.18991,banque
+Maritime,Golfe,Golfe 4,Amoutivé,Banque Atlantique Nyékonakpoè,6.12887,1.22179,banque
+Maritime,Golfe,Golfe 4,Amoutivé,UTB Circulaire,6.12668,1.20994,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,UTB ADidoadin,6.20629,1.18968,banque
+Maritime,Golfe,Golfe 4,Amoutivé,UTB Adawlato,6.12483,1.22462,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,UTB Agoe Nyive,6.21801,1.20845,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,UTB Campus,6.16293,1.21331,banque
+Maritime,Golfe,Golfe 4,Amoutivé,UTB Media Plus,6.13663,1.22716,banque
+Maritime,Golfe,Golfe 4,Amoutivé,UTB Boulevard Est,6.13113,1.2367,banque
+Maritime,Golfe,Golfe 6,Baguida,SUNU Bank Baguida,6.16479,1.32577,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BTCI Amadahome,6.20358,1.16575,banque
+Maritime,Golfe,Golfe 1,Bè-Est,Banque Atlantique bè Marché,6.14386,1.24458,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,BSIC Agoe,6.23123,1.21084,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,ECOBANK Totsi,6.19261,1.19048,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,BTCI Agbalépédogan,6.1894,1.20833,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,ORABANK Agbalépédo,6.192,1.20841,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BSIC Adidogome,6.18539,1.16651,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BTCI Adidogome,6.18165,1.17082,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Banque Atlantique Adidogome,6.17585,1.18133,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,ORABANK Adidogome,6.1757,1.18162,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BTCI ADidogome Assiyeye,6.20118,1.14754,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,ECOBANK Adidogome Amadahome,6.19687,1.15261,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,ORABANK Agence Avedji,6.20204,1.18115,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BSIC Adidogome Assiyeye,6.20128,1.14844,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,SUNU Bank Agence Adidogome,6.18537,1.16599,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,BIA Togo Adidogome,6.17522,1.18161,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,BSIC Klikame,6.17958,1.20539,banque
+Maritime,Golfe,Golfe 4,Amoutivé,CORIS Bank Attikoumé,6.16555,1.20253,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,IB Bank Haoussa-Zongo,6.26093,1.20777,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,SUNU Bank Agence Agoe,6.23103,1.21088,banque
+Maritime,Golfe,Golfe 4,Amoutivé,BSIC Nyekonakpoè,6.12655,1.20932,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,SPT Zongo,6.2538,1.20939,banque
+Maritime,Golfe,Golfe 4,Amoutivé,SPT Nyekonakpoe,6.12742,1.20905,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Banque Atlantique Agoè plantation,6.23414,1.21032,banque
+Maritime,Golfe,Golfe 1,Bè-Est,Banque Atlantique Ahadji-Kpota,6.15895,1.28441,banque
+Maritime,Golfe,Golfe 1,Bè-Est,Banque SAB,6.15884,1.28392,banque
+Maritime,Golfe,Golfe 4,Amoutivé,BCEAO Nyékonakpoè,6.12725,1.21234,banque
+Maritime,Golfe,Golfe 1,Bè-Est,SPT Adakpame,6.17019,1.28943,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,UTB Tokoin Tresor,6.15332,1.21726,banque
+Maritime,Golfe,Golfe 1,Bè-Est,Banque Atlantique de Lomé Port,6.14348,1.27531,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,UTB Adewui,6.16175,1.21514,banque
+Maritime,Vo,Vo 4,Hahotoé,SPT Hahotoe,6.36146,1.40896,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,Banque Atlantique Tokoin SOTED,6.15228,1.2213,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,ORABANK Tokoin,6.1485,1.21919,banque
+Maritime,Golfe,Golfe 1,Bè-Est,MECIT BE-KPOTA,6.15895,1.26356,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,CORIS Bank International,6.16434,1.22272,banque
+Maritime,Golfe,Golfe 1,Bè-Est,ECOBANK d'Akodessewa,6.15309,1.26579,banque
+Maritime,Golfe,Golfe 1,Bè-Est,SPT Dzifa Kpota,6.16491,1.26999,banque
+Maritime,Golfe,Golfe 4,Amoutivé,NSIA Banque - Direction générale,6.13662,1.22806,banque
+Maritime,Golfe,Golfe 6,Baguida,ECOBANK Baguida,6.16433,1.32693,banque
+Maritime,Golfe,Golfe 1,Bè-Est,UTB Be Kpota,6.1581,1.25504,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,UTB Hedzranawo,6.18261,1.24049,banque
+Maritime,Golfe,Golfe 2,Bè-Centre,UTB Novissi Jean Paul 2,6.17447,1.23457,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,UTB Sgi,6.18819,1.21231,banque
+Maritime,Golfe,Golfe 3,Bè-Ouest,UTB Cadastre,6.16313,1.22036,banque
+Maritime,Golfe,Golfe 4,Amoutivé,UTB Kwadjoviakope,6.11369,1.19973,banque
+Maritime,Golfe,Golfe 5,Aflao-Gakli,UTB Adidogome,6.17394,1.18444,banque
+Maritime,Golfe,Golfe 4,Amoutivé,ORABANK Awsivito,6.13071,1.22256,banque
+Maritime,Golfe,Golfe 4,Amoutivé,BIA Togo Amoutivé,6.13507,1.22281,banque
+Maritime,Golfe,Golfe 4,Amoutivé,SUNU Bank Hanoukopé,6.13519,1.21906,banque
+Maritime,Golfe,Golfe 4,Amoutivé,BIDC,6.13627,1.2244,banque
+Maritime,Golfe,Golfe 1,Bè-Est,CORIS Bank Dekon,6.13365,1.23563,banque
+Maritime,Golfe,Golfe 4,Amoutivé,BOA Adawalto,6.12277,1.22426,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,SPT Adeticope,6.3177,1.21687,banque
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,SPT Guerin Kouka,9.68508,0.6089,banque
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,DSA Bank Vakpossito,6.21909,1.15932,banque
+Kara,Kéran,Kéran 1,Kantè,SPT Kanté,9.95938,1.04749,banque
+Kara,Kéran,Kéran 1,Kantè,SUNU Bank Kanté,9.95706,1.05391,banque
+Kara,Kéran,Kéran 1,Kantè,ORABANK Kanté,9.95222,1.04688,banque
+Kara,Kéran,Kéran 1,Kantè,UTB Kante,9.95882,1.04641,banque
+Kara,Kozah,Kozah 2,Pya,UTB Pya,9.64746,1.14662,banque
+Kara,Kozah,Kozah 2,Pya,SPT Pya,9.65285,1.14436,banque
+Kara,Kozah,Kozah 1,Commune De Kara,BOA Ewoou,9.54926,1.18975,banque
+Kara,Kozah,Kozah 1,Commune De Kara,SPT Welade,9.54998,1.18963,banque
+Kara,Kozah,Kozah 1,Commune De Kara,CORIS Bank Cofake,9.54879,1.19645,banque
+Kara,Kozah,Kozah 1,Commune De Kara,BIA Togo Ewonou,9.54734,1.19254,banque
+Kara,Kozah,Kozah 1,Commune De Kara,SPT Cofac,9.54829,1.19487,banque
+Kara,Kozah,Kozah 1,Commune De Kara,ORABANK Ewoou,9.55055,1.18905,banque
+Kara,Kozah,Kozah 1,Commune De Kara,NSIA Banque Ewoou,9.54792,1.19025,banque
+Kara,Kozah,Kozah 1,Commune De Kara,ECOBANK Ewoou,9.54895,1.18993,banque
+Kara,Kozah,Kozah 1,Commune De Kara,Banque Atlantique Kpingning-Boua,9.55038,1.18913,banque
+Kara,Assoli,Assoli 1,Bafilo,SPT Bafilo,9.35664,1.24266,banque
+Kara,Kozah,Kozah 1,Commune De Kara,UTB Kara,9.55722,1.184,banque
+Kara,Kozah,Kozah 1,Commune De Kara,ORABANK Ewaou,9.54966,1.18649,banque
+Kara,Kozah,Kozah 2,Pya,SUNU Bank Pya,9.66784,1.15633,banque
+Kara,Assoli,Assoli 1,Bafilo,SUNU Bank Bafilo,9.36365,1.24659,banque
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,SUNU Bank Guerin kouka,9.69099,0.60795,banque
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,UTB Guérin Kouka,9.6898,0.60821,banque
+Kara,Binah,Binah 2,Kétao,SUNU Bank Ketao,9.65828,1.30922,banque
+Kara,Binah,Binah 2,Kétao,SPT Ketao,9.65892,1.30825,banque
+Kara,Binah,Binah 2,Kétao,UTB Ketao,9.65898,1.30898,banque
+Kara,Binah,Binah 1,Pagouda,SPT Pagouda,9.75039,1.32541,banque
+Kara,Bassar,Bassar 1,Bassar,SUNU Bank Bassar,9.25814,0.78371,banque
+Kara,Bassar,Bassar 1,Bassar,ORABANK Togo Bassar,9.25707,0.78516,banque
+Kara,Bassar,Bassar 1,Bassar,UTB Bassar,9.26225,0.7814,banque
+Kara,Bassar,Bassar 1,Bassar,SPT Bassar,9.26219,0.77932,banque
+Kara,Bassar,Bassar 2,Bangeli,SPT Bangeli,9.4221,0.62461,banque
+Savanes,Oti,Oti 1,Mango,SUNU Mango,10.35438,0.47046,banque
+Maritime,Avé,Avé 1,Assahoun,UTB Assahoun,6.45648,0.90959,banque
+Kara,Bassar,Bassar 3,Kabou,BTCI Kabou,9.4563,0.81314,banque
+Kara,Doufelgou,Doufelgou 1,Niamtougou,BTCI Niamtougou,9.76526,1.10898,banque
+Kara,Doufelgou,Doufelgou 1,Niamtougou,SUNU Bank Niamtougou,9.76156,1.10731,banque
+Kara,Kozah,Kozah 1,Commune De Kara,SUNU Bank Chaminade,9.5586,1.1834,banque
+Kara,Kozah,Kozah 1,Commune De Kara,BSIC Kara,9.54817,1.19222,banque
+Maritime,Yoto,Yoto 1,Tabligbo,SUNU Bank Tagbligbo,6.59201,1.50128,banque
+Maritime,Yoto,Yoto 1,Tabligbo,UTB Tagbligbo,6.58885,1.49409,banque
+Maritime,Yoto,Yoto 1,Tabligbo,Banque Atlantique Tagbligbo,6.58045,1.51069,banque
+Maritime,Yoto,Yoto 1,Tabligbo,SPT Tagbligbo,6.58847,1.50041,banque
+Maritime,Yoto,Yoto 2,Ahépé,SPT Ahepe,6.60716,1.39647,banque
+Maritime,Zio,Zio 1,Tsévié,UTB Tsevie,6.4235,1.21285,banque
+Maritime,Avé,Avé 1,Kévé,SPT Keve,6.43546,0.92425,banque
+Maritime,Zio,Zio 1,Tsévié,SUNU Bank Tsevie,6.41716,1.21169,banque
+Maritime,Avé,Avé 1,Assahoun,ORABANK Assahoun,6.45489,0.91019,banque
+Maritime,Zio,Zio 1,Tsévié,SPT Tsevie,6.42408,1.20992,banque
+Maritime,Yoto,Yoto 3,Tokpli,ECOBANK Assou kondji,6.62578,1.56732,banque
+Maritime,Vo,Vo 1,Vogan,ORABANK Novissikomé,6.33727,1.52669,banque
+Maritime,Vo,Vo 1,Vogan,SPT Commandant condji,6.33506,1.52951,banque
+Maritime,Lacs,Lacs 2,Aklakou,SPT Aklakou,6.33519,1.70977,banque
+Maritime,Vo,Vo 1,Vogan,SUNU Bank Vogan,6.33552,1.52903,banque
+Maritime,Vo,Vo 1,Vogan,UTB Novissikomé,6.34053,1.52353,banque
+Maritime,Lacs,Lacs 4,Anfoin,SPT Anfoin,6.3287,1.60688,banque
+Maritime,Lacs,Lacs 1,Aného,SPT Aneho,6.22813,1.59739,banque
+Maritime,Lacs,Lacs 1,Canton D’Aneho,UTB Aneho,6.23272,1.60323,banque
+Plateaux,Moyen-Mono,Moyen-Mono 2,Kpékplémé,OIC Kpékplémé,7.33179,1.62571,banque
+Maritime,Lacs,Lacs 3,Agbodrafo,SPT Agbodrafo,6.20789,1.47783,banque
+Maritime,Lacs,Lacs 1,Canton D’Aneho,ECOBANK Carrefour,6.23636,1.61226,banque
+Maritime,Lacs,Lacs 1,Canton D’Aneho,SUNU Bank Gériko,6.23843,1.61619,banque
+Maritime,Lacs,Lacs 1,Canton D’Aneho,ORABANK Gériko,6.24015,1.62349,banque
+Maritime,Lacs,Lacs 1,Canton D’Aneho,BTCI Gériko ,6.24038,1.62364,banque
+Maritime,Lacs,Lacs 1,Canton D’Aneho,NSIA Assurance banque Aneho,6.23995,1.62149,banque
+Maritime,Zio,Zio 1,Tsévié,ORABANK Tsevie,6.43402,1.21197,banque
+Maritime,Zio,Zio 3,Agbélouvé,SPT Agbélouvé,6.67175,1.16784,banque
+Plateaux,Ogou,Ogou 1,Gnagna,BOA Gnagna,7.51905,1.14123,banque
+Plateaux,Wawa,Wawa 1,Badou,ORABANK Badou,7.58498,0.60652,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,BSIC Cinkanssé,11.10714,0.01385,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,UTB Boadé,11.10266,0.01602,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,SPT Boadé,11.11086,0.01245,banque
+Plateaux,Agou,Agou 1,Agou-Tavié,SPT Agou-gare,6.84403,0.71638,banque
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,IB Bank Togo,6.92137,0.63448,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,NSIA Banque Cinkanssé,11.10069,0.01756,banque
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,ECOBANK Fiakomé,6.90705,0.63225,banque
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,SUNU Bank Kpalime,6.91256,0.63249,banque
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,UTB Kpalime,6.90682,0.63299,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,ORABANK Cinkanssé,11.09737,0.02152,banque
+Savanes,Tône,Tône 1,Dapaong,SUNU Bank Dapaong,10.88376,0.19986,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,BTCI Boadé,11.11061,0.01247,banque
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,ORABANK Kpalimé,6.90107,0.63005,banque
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,UTB Tetsefi,7.13204,0.73133,banque
+Plateaux,Haho,Haho 1,Notsé,UTB Notse,6.94395,1.17345,banque
+Plateaux,Haho,Haho 1,Notsé,ORABANK Notse,6.94866,1.16763,banque
+Plateaux,Haho,Haho 1,Notsé,SUNU Bank Notse,6.94917,1.1688,banque
+Plateaux,Anié,Anié 1,Anié,SUNU Bank Anié,7.80818,1.19152,banque
+Savanes,Tône,Tône 1,Dapaong,Banque Atlantique Kpegui,10.86553,0.20303,banque
+Plateaux,Anié,Anié 1,Anié,Banque Atlantique Anié,7.76487,1.19268,banque
+Plateaux,Anié,Anié 1,Anié,ORABANK Anié,7.75884,1.193,banque
+Plateaux,Ogou,Ogou 1,Djama,SPT Atakpame,7.53261,1.12474,banque
+Plateaux,Anié,Anié 1,Anié,UTB Anié,7.76181,1.19341,banque
+Plateaux,Ogou,Ogou 1,Djama,SPT Agbonou,7.52439,1.14846,banque
+Plateaux,Ogou,Ogou 1,Djama,BIA Togo Togo,7.53313,1.12185,banque
+Plateaux,Ogou,Ogou 1,Gnagna,ECOBANK Houdou,7.53157,1.12278,banque
+Plateaux,Ogou,Ogou 1,Gnagna,Banque Atlantique Houdou,7.53183,1.12213,banque
+Plateaux,Ogou,Ogou 1,Gnagna,SUNU Bank Gnagna,7.52243,1.13845,banque
+Savanes,Oti-Sud,Oti-Sud 1,Gando,SPT Kando,10.32694,0.74254,banque
+Savanes,Oti,Oti 1,Mango,ORABANK Mango,10.35716,0.47547,banque
+Savanes,Oti,Oti 1,Mango,UTB Mango,10.35239,0.46937,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Banque Atlantique Quartier Samango,11.10257,0.01654,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,ECOBANK Cinkanssé,11.10216,0.01625,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,CORIS Bank Cinkanssé ,11.09705,0.0227,banque
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,BOA Cinkanssé,11.09635,0.02599,banque
+Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,SPT Bombouaka,10.69954,0.20761,banque
+Savanes,Tône,Tône 1,Dapaong,ORABANK Nassablé,10.877,0.20038,banque
+Savanes,Oti,Oti 2,Barkoissi,SPT Barkoissi,10.55543,0.30455,banque
+Savanes,Oti,Oti 1,Mango,SPT Mango,10.35719,0.47198,banque
+Savanes,Tône,Tône 1,Dapaong,ECOBANK Dapaong,10.86944,0.20213,banque
+Savanes,Tône,Tône 1,Dapaong,BSIC Dapaong,10.87648,0.20053,banque
+Savanes,Tône,Tône 1,Dapaong,UTB Dapaong,10.86078,0.20543,banque
+Savanes,Tône,Tône 1,Dapaong,BTCI Worgou,10.85013,0.20243,banque
+Maritime,Golfe,Golfe 1,Bè-Est,Direction générale Ecobank Togo,6.13598,1.25856,banque
+Maritime,Bas-Mono,Bas-Mono 1,Afagnangan,FUCEC Togo Afagnan,6.49577,1.62712,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,FUCEC-Togo,6.18348,1.16901,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Microfinance Millenium Totsi,6.19708,1.18668,microfinance
+Maritime,Zio,Zio 1,Djagblé,COOPAD Djagblé,6.25412,1.28279,microfinance
+Centrale,Blitta,Blitta 2,Agbandi,UCMECF To Point de Agbandji,8.22702,1.13456,microfinance
+Centrale,Blitta,Blitta 1,Pagala-Gare,FUCEC Togo Agence Pagala,8.17807,0.97541,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,FUCEC-togo Agence Vakpossito,6.218,1.16933,microfinance
+Maritime,Zio,Zio 1,Djagblé,CECAV Gbama Kope,6.26086,1.2636,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COOPEC Fidelite,6.17569,1.18172,microfinance
+Maritime,Zio,Zio 1,Djagblé,COOPEC AD Djagblé,6.25945,1.28424,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),COMEC Sokode,8.97086,1.13517,microfinance
+Centrale,Mô,Mô 1,Djarkpanga,COOPEC Plaine de Mo,8.78427,0.5629,microfinance
+Centrale,Mô,Mô 2,Tindjasse,Microfinance Amitie Entre les Peuples,8.65054,0.46369,microfinance
+Maritime,Vo,Vo 4,Hahotoé,WAGES Hahotoe,6.36537,1.4174,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),COOPEC Gaiete de Sokode,8.97895,1.13742,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),COOPEC AD de Sokode,8.98832,1.13615,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Mutuelle Tibi de Sokode,8.98963,1.13854,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),WAGES Sokode,8.98792,1.14084,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Kpangalam,URCLEC Sokode,9.00904,1.13561,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Kpangalam,Direction URCLEC Sokode,9.02536,1.14003,microfinance
+Centrale,Tchamba,Tchamba 1,Tchamba,FUCEC Togo Djayowoa,9.02227,1.41418,microfinance
+Centrale,Tchamba,Tchamba 1,Tchamba,URCLEC Iyiwa,9.02253,1.4149,microfinance
+Centrale,Tchamba,Tchamba 1,Tchamba,UCMECF-TO Tchamba,9.02547,1.42255,microfinance
+Centrale,Tchamba,Tchamba 1,Tchamba,COOPEC ADESEM Forêt chance,9.02651,1.42318,microfinance
+Centrale,Tchamba,Tchamba 3,Kaboli,COOPEC ADESEM Djama,8.75182,1.58513,microfinance
+Centrale,Tchamba,Tchamba 3,Kaboli,FUCEC Togo Guimegue,8.74756,1.59537,microfinance
+Centrale,Tchamba,Tchamba 3,Kaboli,URCLEC Adja,8.74924,1.59362,microfinance
+Centrale,Tchamba,Tchamba 3,Kaboli,WAGES Takete,8.74731,1.59302,microfinance
+Centrale,Tchamba,Tchamba 2,Koussountou,FUCEC Togo Bassegue,8.83259,1.51835,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),CMECF Sokode,8.98749,1.13727,microfinance
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),COOPEC ADESEM Sokodé,8.98726,1.13462,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COOPEC AD Avepozo,6.17148,1.35085,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,COOPEC AD Adidogome Madiba,6.20031,1.14821,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,WAGES M'heza de Sotouboua,8.56586,0.97953,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,FUCEC Togo de Sotouboua,8.56113,0.98399,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,URCLEC de Sotouboua,8.56172,0.98331,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,Mutuelle Tibi de Sotouboua,8.56185,0.97451,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,CMECF Sotouboua,8.56326,0.98121,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,CECO COOP de Sotouboua,8.55591,0.97027,microfinance
+Centrale,Sotouboua,Sotouboua 2,Adjengré,FUCEC Togo Adjengre,8.66349,1.01798,microfinance
+Centrale,Sotouboua,Sotouboua 3,Tchébébé,CMECF-sotouboua,8.43023,0.99136,microfinance
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,Club Entraide Sans Frontière Microfinance,8.56086,0.97629,microfinance
+Centrale,Sotouboua,Sotouboua 2,Adjengré,COOPEC ADESEM de ADjengre,8.66936,1.02025,microfinance
+Centrale,Sotouboua,Sotouboua 2,Adjengré,Caisse Mutuelle d'épargne et de Crédit Pour Les Femmes du Togo de ADjengre,8.65841,1.0197,microfinance
+Centrale,Sotouboua,Sotouboua 3,Tchébébé,COOPEC ADESEM Agence de Tchébébé,8.43372,0.99554,microfinance
+Centrale,Sotouboua,Sotouboua 3,Tchébébé,FUCEC Togo Enente de Tchebebe,8.43464,0.99139,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Aliada Agoe,6.23267,1.19714,microfinance
+Centrale,Blitta,Blitta 1,Blitta,URCLEC Lamakaza,8.32863,0.98663,microfinance
+Centrale,Blitta,Blitta 1,Blitta,FUCEC Togo Blitta zongo,8.32652,0.97768,microfinance
+Centrale,Blitta,Blitta 2,Agbandi,FUCEC Togo Bagbo,8.23094,1.13357,microfinance
+Centrale,Blitta,Blitta 1,Pagala-Gare,Micro Finance URCLEC de Pagala Gare,8.1837,0.96522,microfinance
+Centrale,Blitta,Blitta 1,Pagala-Gare,UCMEF de Pagala Gare,8.18031,0.97145,microfinance
+Centrale,Tchamba,Tchamba 1,Tchamba,Finance-centralespt-tchamba,9.02061,1.41776,microfinance
+Centrale,Tchamba,Tchamba 3,Kaboli,Finance Centrale Spt-kaboli,8.74811,1.59597,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,FUCEC Togo Adétikopé,6.32086,1.21842,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,La Mutuelle Dignite Humaine,6.31506,1.22217,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,CECAV Fraternite Adeticope,6.31831,1.21794,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Mutuelle Akwaba Adetikope,6.32098,1.2193,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Mutuelle Digitale Humaine Agoè Assiyéué,6.23386,1.19672,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,CEF-MF Legbassito,6.25673,1.16768,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,WAGES Agoe,6.23138,1.19871,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPEC la Grâce Divine,6.25719,1.17569,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,CECAV Yayra Agoe,6.23436,1.19586,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,URCLEC Agoè Assiyéyé,6.23091,1.19877,microfinance
+Maritime,Golfe,Golfe 4,Amoutivé,LMF le Pavillon,6.13768,1.22862,microfinance
+Maritime,Golfe,Golfe 6,Baguida,WAGES Baguida,6.16624,1.32827,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance COECEB Adidogome Assiyeye,6.19752,1.14603,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance COOP ICEC,6.19853,1.14497,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance Millenium Apedokoe,6.20389,1.14397,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance Echoppe Togo Wonye,6.19123,1.14785,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COECEPT Avédji,6.19318,1.17263,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COOPEC AD Agbalépédogan,6.19538,1.19262,microfinance
+Maritime,Golfe,Golfe 6,Baguida,CECAV Fraternité,6.17091,1.34908,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC AD,6.16554,1.27159,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COCEC de Kanyikope,6.16792,1.29656,microfinance
+Maritime,Golfe,Golfe 2,Bè-Centre,MECI d'attiegou,6.18767,1.27105,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,WAGES d'adakpame,6.17018,1.28985,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Mutual Finance,6.21185,1.18818,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,WAGES Avedji,6.20106,1.18104,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,CECAV Akodessewa,6.15239,1.26736,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COCEC Baguida,6.17149,1.31364,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COOPEC La Fructueuse Adamavo,6.1696,1.30657,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Coda Zorobar,6.1645,1.2849,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC la Fructueuse,6.16517,1.26678,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COFEC Baguida,6.16896,1.33268,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COOPECfi Avepozo,6.16771,1.33752,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPECfI Assiyeye,6.22589,1.19755,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance FIDES -Togo Yokoe,6.18024,1.14375,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,FUCEC Togo Bè,6.14224,1.24269,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC Maturite TP3,6.16022,1.28868,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,COOPEC AD Agence de Legbassito,6.26803,1.15224,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,WAGES Agence de Legbassito,6.26685,1.15197,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,FUCEC Togo Agence de Legbassito,6.26717,1.15132,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,ASJD Agence de Zossime,6.23314,1.15107,microfinance
+Maritime,Golfe,Golfe 6,Baguida,FUCEC Togo Baguida,6.16984,1.34466,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,FINAM,6.14383,1.24454,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,MECIT Agbalépédo,6.19571,1.2084,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Institution de Microfinance,6.1543,1.26887,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Agence de Transfert Fintech Atilamonou,6.21743,1.12829,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance COECEB Segbe,6.19456,1.11238,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Institution de Microfinance Coopad Segbe,6.19956,1.10414,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COOPEC Grace plus Amadahomé,6.19721,1.15223,microfinance
+Maritime,Golfe,Golfe 4,Amoutivé,Direction Nationale COOPEC-AD,6.11955,1.20339,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,MECI de Be Kpota,6.16077,1.2641,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,COOPEC-AD Ramco,6.15078,1.21898,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,CEC Canaan Wognomé,6.18436,1.15915,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,CEC Canaan Agbalépédogan,6.18729,1.20078,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,MECI Adétikopé,6.32059,1.21943,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COECEPT Baguida,6.16128,1.31452,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC la destinee,6.14689,1.24759,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,SICAB Adewi,6.16166,1.21488,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,FUCEC Togo Togo Totsi,6.19602,1.18821,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Assilassime Solidarité,6.18199,1.17036,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Microfinance Alida,6.14288,1.24444,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COCPAV Logoté,6.17476,1.31293,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,FABES Microfinance de Be Kpehenou,6.14002,1.2403,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Institution de Microfinance CECL Yokoe,6.1821,1.15878,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Coopérative ICEC,6.20946,1.23978,microfinance
+Maritime,Golfe,Golfe 6,Baguida,MECPIP Avépozo,6.16965,1.34563,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPEC la Fructueuse,6.22627,1.21249,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Mutuelle CEF-MF,6.19991,1.20259,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Microfinance MECPIP de Agbalepedogan,6.19806,1.20001,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COFEC Microfinance,6.18821,1.17579,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,WAGES Adidogome,6.18217,1.16999,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,FINAM Agence Madiba,6.20028,1.14834,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COOPEC Ave Agence Adidogome,6.19053,1.16005,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COOPEC Solidarite,6.18309,1.16916,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Microfinance Adidogome,6.18105,1.17092,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,COOPEC Grâce plus Aménopé,6.19724,1.15224,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Ardi-mec Togo Adidogome Assiyeye,6.19834,1.15003,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Echoppe Togo,6.16726,1.27436,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Microfinance FINAM Adidogome Madiba,6.20051,1.14836,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Microfinance MECPIPI,6.19057,1.15141,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,COOPEC AD Agence Ramco,6.15068,1.21878,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,FINAM Agence Principale,6.1754,1.18113,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Mutuelle Nevaeme,6.17024,1.19584,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Mutuelle la Dignite,6.25613,1.20353,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPAD Agoe Zongo,6.2516,1.20855,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC Maturite,6.14224,1.24267,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,La Pyramide Sarl,6.22191,1.22645,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Microfinance WAGES,6.22896,1.21141,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPEC DECA,6.25008,1.19806,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,IFRJRJRJ,6.23081,1.21263,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Microfinance MECI Agoe demakpoe,6.23901,1.20378,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPEC AD Agoe Assiyeye,6.23113,1.19565,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Microfinance CECA ADidogome,6.19586,1.15346,microfinance
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,WAGES Avoeme,6.19357,1.13622,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Microfinance COECEB Agoè Gbonvé,6.21735,1.18401,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Millenium Microfinance Atchanve,6.2307,1.21042,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Club Entraide Sans Frontière Microfinance,6.25751,1.20809,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,COOPEC AD Atchanve,6.22516,1.21587,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,FINAM de Be Kpota,6.16123,1.26472,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Microfinance Millenium Akodessewa,6.14949,1.25208,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC Solidarite Bè-Est,6.15141,1.26023,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COOPEC Ave Bèkpota,6.16279,1.26648,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,COCEC Anfame,6.16502,1.27659,microfinance
+Maritime,Golfe,Golfe 6,Baguida,COOPEC Solidarite Baguida,6.16898,1.30127,microfinance
+Maritime,Golfe,Golfe 2,Bè-Centre,COCEC Atiegougan,6.19366,1.25857,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,Micro_finance ICEC,6.15242,1.22059,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,COOPEC TRASSTO,6.14937,1.22475,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Microfinance la Rosee de Dieu,6.17198,1.27099,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,WAGES Akodessewa,6.15317,1.2667,microfinance
+Maritime,Golfe,Golfe 1,Bè-Est,Mutuelle Nevaeme,6.15032,1.25464,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,UMECTO Zossime,6.23331,1.15334,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,WAGES Sanguera,6.22776,1.11706,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,FUCEC Togo -Togo COOPEC Akepe,6.22835,1.1164,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,COOPEC Grace Plus Agningbe,6.2301,1.11251,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,WAGES Zossime,6.2327,1.15019,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,FUCEC Togo Zossime,6.23406,1.15153,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,CEC Canaan Assigomé,6.22747,1.15881,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Assilassime Solidarite Agence Vakpossito,6.21783,1.16355,microfinance
+Maritime,Golfe,Golfe 4,Amoutivé,COFINA,6.1219,1.20992,microfinance
+Maritime,Golfe,Golfe 3,Bè-Ouest,FUCEC Togo Attikoumé,6.16735,1.20284,microfinance
+Kara,Kéran,Kéran 1,Kantè,Promo Finance Kanté,9.94722,1.04743,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Club Entraide Sans Frontiere Microfinance( CEF-MF),6.32404,1.2177,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,FEDES Togo,6.31737,1.2177,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,ASJD LEO 2000,6.2114,1.17705,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Microfinance Trinité,6.21851,1.15969,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Microfinance MEDAD,6.21851,1.15257,microfinance
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Microfinance Ardi-mec,6.2137,1.16078,microfinance
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Microfinance COCEC,6.21033,1.15805,microfinance
+Kara,Kéran,Kéran 1,Kantè,FUCEC Togo Kante,9.95866,1.04571,microfinance
+Kara,Kéran,Kéran 1,Kantè,MUFEC Kanté,9.95889,1.04889,microfinance
+Maritime,Zio,Zio 2,Kovié,FECECAV Kovie,6.34103,1.10754,microfinance
+Kara,Kozah,Kozah 1,Commune De Kara,CAVEC Lidaw,9.54472,1.18914,microfinance
+Kara,Assoli,Assoli 1,Bafilo,Cef Microfinance Bafilo,9.35139,1.2453,microfinance
+Kara,Assoli,Assoli 1,Bafilo,COOPEC Ariziki,9.35788,1.24195,microfinance
+Kara,Kozah,Kozah 1,Commune De Kara,COMEC Kara Camp Général Ameyi,9.57043,1.17793,microfinance
+Kara,Assoli,Assoli 1,Bafilo,Promofinance Bafilo,9.35303,1.24369,microfinance
+Kara,Assoli,Assoli 1,Bafilo,MUCAD Bafilo,9.35409,1.24399,microfinance
+Kara,Kozah,Kozah 2,Pya,Promofinance Ténouyo,9.66265,1.15175,microfinance
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,Assoli,9.68784,0.60679,microfinance
+Kara,Assoli,Assoli 1,Bafilo,COOPEC ADESEM Bafilo,9.3501,1.24731,microfinance
+Kara,Doufelgou,Doufelgou 1,Niamtougou,Fonds Social de Solidarite,9.76592,1.1088,microfinance
+Kara,Kozah,Kozah 1,Commune De Kara,Promo Finance Kara,9.54983,1.19033,microfinance
+Kara,Kozah,Kozah 1,Commune De Kara,MUFEC Lama,9.54562,1.19324,microfinance
+Kara,Kozah,Kozah 1,Commune De Kara,FUCEC Togo Kara,9.54599,1.18956,microfinance
+Kara,Kozah,Kozah 1,Commune De Kara,Promo Finance Tomdè,9.55894,1.1929,microfinance
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,Promofinance Guérin Kouka,9.6913,0.60791,microfinance
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,FUCEC Togo Guérin Kouka,9.69088,0.60764,microfinance
+Kara,Binah,Binah 1,Pagouda,COOPEC Pagouda,9.75307,1.32827,microfinance
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,MUCAD Guérin Kouka,9.68666,0.60896,microfinance
+Kara,Binah,Binah 2,Kétao,Micro-finance UMECTO,9.65672,1.30715,microfinance
+Kara,Binah,Binah 2,Kétao,FUCEC Togo Ketao,9.66019,1.30532,microfinance
+Kara,Binah,Binah 2,Kétao,Promofinace de Ketao,9.66117,1.31037,microfinance
+Kara,Binah,Binah 2,Kétao,Microfinance MUCAD Ketao,9.65765,1.30907,microfinance
+Kara,Bassar,Bassar 1,Bassar,COOPEC AD Bassar,9.26469,0.77963,microfinance
+Kara,Bassar,Bassar 1,Bassar,URCLEC Bassar,9.26145,0.77897,microfinance
+Kara,Bassar,Bassar 2,Bangeli,COOPEC ADESEM Bangeli,9.4221,0.62418,microfinance
+Kara,Bassar,Bassar 3,Kabou,COOPEC ADESEM Sankpana,9.4558,0.81767,microfinance
+Kara,Bassar,Bassar 3,Kabou,FUCEC Togo Kabou,9.4541,0.81096,microfinance
+Kara,Bassar,Bassar 1,Bassar,COOPEC Bilimon Bassar,9.25905,0.78292,microfinance
+Kara,Doufelgou,Doufelgou 3,Alloum,MEC-D Broukou,9.73844,0.92126,microfinance
+Kara,Doufelgou,Doufelgou 1,Siou,MEC-D  Siou,9.82142,1.20024,microfinance
+Kara,Doufelgou,Doufelgou 2,Défalé,MEC-D de defale,9.86546,1.09052,microfinance
+Kara,Doufelgou,Doufelgou 3,Alloum,Promofinance Broukou,9.73983,0.92158,microfinance
+Kara,Doufelgou,Doufelgou 3,Alloum,COOPEC Niamtougou,9.74007,0.92024,microfinance
+Kara,Doufelgou,Doufelgou 1,Niamtougou,COOPEC Niantougou,9.76406,1.10684,microfinance
+Kara,Doufelgou,Doufelgou 1,Niamtougou,C.P.D.E.N.D.F,9.77343,1.11279,microfinance
+Kara,Doufelgou,Doufelgou 1,Niamtougou,Mec-d Niamtougou,9.76503,1.10744,microfinance
+Kara,Bassar,Bassar 1,Bassar,Promo Finance Bassar,9.26216,0.77413,microfinance
+Maritime,Zio,Zio 1,Djagblé,COCEC Djagble,6.25464,1.28276,microfinance
+Maritime,Zio,Zio 3,Gamé-Sèva,Mutuelle Villageoise de developpement de Avedze,6.67209,1.23883,microfinance
+Maritime,Yoto,Yoto 1,Tabligbo,COOPEC-AD Tagbligbo,6.58953,1.50026,microfinance
+Maritime,Yoto,Yoto 1,Tabligbo,Mutuelle Akwaba Tagbligbo,6.589,1.49574,microfinance
+Maritime,Yoto,Yoto 1,Tabligbo,UMECTO Tagbligbo,6.58951,1.49888,microfinance
+Maritime,Yoto,Yoto 2,Ahépé,UMECTO Ahepe,6.60636,1.39619,microfinance
+Maritime,Yoto,Yoto 2,Ahépé,Mutuelle Akwaba Agence Annexe,6.60433,1.39412,microfinance
+Maritime,Yoto,Yoto 2,Tchékpo,FUCEC Togo -Togo (guichet de Tchekpo ),6.53387,1.35891,microfinance
+Maritime,Yoto,Yoto 2,Tchékpo,Mutuelle Akwaba Guichet de Tchekpo,6.53685,1.3604,microfinance
+Maritime,Yoto,Yoto 2,Ahépé,FUCEC Togo Ahépé,6.60574,1.39759,microfinance
+Maritime,Yoto,Yoto 1,Kouvé,COOPEC Kouve,6.66214,1.41344,microfinance
+Maritime,Yoto,Yoto 1,Kouvé,Mutuelle Akwaba Kouvé Atsapé,6.66305,1.41247,microfinance
+Maritime,Yoto,Yoto 1,Tabligbo,FUCEC Togo Tabligbo,6.58708,1.50077,microfinance
+Maritime,Zio,Zio 1,Tsévié,FUCEC Togo COOPEC Tsevie,6.42463,1.21603,microfinance
+Maritime,Zio,Zio 2,Mission-Tové,Cooperative Solidarite Agricole Centre la Pauvreté,6.32168,1.12487,microfinance
+Maritime,Yoto,Yoto 3,Gboto,Tsonakle,6.70537,1.47652,microfinance
+Maritime,Yoto,Yoto 3,Gboto,ADCB-CREC,6.67522,1.52997,microfinance
+Maritime,Zio,Zio 1,Tsévié,WAGES Tsévié,6.43694,1.21129,microfinance
+Maritime,Zio,Zio 1,Tsévié,UMECTO Tsévié,6.43754,1.21074,microfinance
+Maritime,Zio,Zio 1,Djagblé,COOPEC la Fructueuse,6.24892,1.27777,microfinance
+Maritime,Zio,Zio 1,Dalavé,Mutuelle Akwaba Adangbe,6.40212,1.27156,microfinance
+Maritime,Zio,Zio 1,Tsévié,Mutuelle Akwaba Tsévié,6.40848,1.20896,microfinance
+Maritime,Zio,Zio 1,Tsévié,FECECAV la Grâce,6.42412,1.20968,microfinance
+Maritime,Vo,Vo 4,Akoumapé,Coopérative des Femmes Pour L'epargne et de Crédit,6.38335,1.43327,microfinance
+Maritime,Bas-Mono,Bas-Mono 1,Afagnangan,COOPEC Afagnan,6.49581,1.6271,microfinance
+Maritime,Avé,Avé 1,Kévé,FUCEC Togo Topeme,6.43082,0.93074,microfinance
+Maritime,Avé,Avé 1,Kévé,COOPEC AD Kévé,6.43454,0.92526,microfinance
+Maritime,Avé,Avé 2,Aképé,FECECAV D Assiame,6.24217,1.05783,microfinance
+Maritime,Avé,Avé 1,Tovégan,FECECAV Solidarite,6.56652,0.89424,microfinance
+Maritime,Avé,Avé 2,Aképé,FUCEC Togo Akepe,6.24133,1.05744,microfinance
+Maritime,Avé,Avé 2,Badja,COOPAD Transformation,6.3753,0.98517,microfinance
+Maritime,Zio,Zio 1,Gbatopé,Mutuelle Akwaba Gbatope,6.44441,1.25902,microfinance
+Maritime,Vo,Vo 3,Dzrékpo,Microfinance Tso Nakle,6.47332,1.5689,microfinance
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,2A.D.A.D,11.09988,0.0243,microfinance
+Maritime,Avé,Avé 1,Assahoun,COECEPT Assahoun,6.45986,0.90877,microfinance
+Maritime,Avé,Avé 1,Zolo,FUCEC Togo Dzolo,6.37567,0.89136,microfinance
+Maritime,Avé,Avé 1,Assahoun,CECAV la Grace,6.45911,0.90901,microfinance
+Maritime,Avé,Avé 2,Noépé,COOPEC la Lumière,6.25683,1.04309,microfinance
+Maritime,Avé,Avé 1,Assahoun,FUCEC Togo Assahoun,6.45034,0.91453,microfinance
+Maritime,Zio,Zio 2,Mission-Tové,Mutuelle Benit,6.2968,1.13556,microfinance
+Maritime,Zio,Zio 1,Tsévié,COOPEC Fidélité,6.43365,1.20671,microfinance
+Maritime,Zio,Zio 2,Kovié,Mutuelle Dignité Humaine,6.34269,1.11282,microfinance
+Maritime,Zio,Zio 4,Gapé-Centre,Mutuelle Akwaba Avérétoe,6.6028,1.10328,microfinance
+Maritime,Zio,Zio 4,Gapé-Centre,FUSECAB,6.60339,1.10144,microfinance
+Maritime,Zio,Zio 4,Gapé-Centre,COOPEC Gape Centre,6.60197,1.10373,microfinance
+Maritime,Zio,Zio 2,Mission-Tové,Centre d'assistance Juridique et Economique Aux Femmes,6.28913,1.12529,microfinance
+Maritime,Zio,Zio 3,Agbélouvé,CECAv Prosperite,6.67126,1.1682,microfinance
+Maritime,Zio,Zio 3,Agbélouvé,FUCEC Togo Agbelouvé,6.67201,1.16765,microfinance
+Maritime,Zio,Zio 3,Agbélouvé,SPEC OIC Togo Agbelouvé,6.66879,1.16866,microfinance
+Maritime,Zio,Zio 1,Djagblé,COOPEC Tsevie Guichet Djagblé,6.25486,1.28408,microfinance
+Maritime,Zio,Zio 3,Agbélouvé,Caisse Communautaire,6.62007,1.18621,microfinance
+Maritime,Vo,Vo 2,Togoville,Mutuelle ASJD Bdougbé,6.23752,1.51331,microfinance
+Maritime,Bas-Mono,Bas-Mono 2,Attitogon,FUCEC Togo AttiTogon,6.41678,1.66312,microfinance
+Maritime,Vo,Vo 1,Vogan,COOPEC-AD Novissikome,6.34078,1.52385,microfinance
+Maritime,Vo,Vo 1,Vogan,COOPEC CECEAO,6.33926,1.52427,microfinance
+Maritime,Vo,Vo 3,Dzrékpo,FESEC-Togo,6.47417,1.56875,microfinance
+Maritime,Vo,Vo 1,Vogan,Mutuelle Kekeli,6.33354,1.52995,microfinance
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,COOPEC AD Boadé,11.09978,0.01774,microfinance
+Maritime,Vo,Vo 1,Vogan,FECECAV-MECA,6.34049,1.52394,microfinance
+Maritime,Vo,Vo 4,Hahotoé,Coopérative d'épargne et de Credit du Personnel de la SNPT,6.36701,1.40938,microfinance
+Maritime,Vo,Vo 4,Hahotoé,FUCEC Togo - COOPEC CECEAO,6.3631,1.41459,microfinance
+Maritime,Vo,Vo 4,Hahotoé,UMECTO Kekeli,6.36552,1.41645,microfinance
+Maritime,Lacs,Lacs 2,Aklakou,Mutuelle Kekeli,6.33376,1.7084,microfinance
+Maritime,Lacs,Lacs 4,Anfoin,MECA Anfoin,6.32886,1.6068,microfinance
+Maritime,Lacs,Lacs 4,Anfoin,COOPEC-nyameneko,6.33015,1.60757,microfinance
+Maritime,Lacs,Lacs 1,Canton D’Aneho,FUCEC Togo Aného,6.23774,1.6104,microfinance
+Maritime,Lacs,Lacs 3,Gbodjomé,COCPAV Dague,6.20032,1.40561,microfinance
+Maritime,Lacs,Lacs 3,Gbodjomé,COOPEC Kekeli,6.18337,1.39254,microfinance
+Maritime,Lacs,Lacs 3,Gbodjomé,COOPEC Nyameneko /fusec,6.19224,1.39682,microfinance
+Maritime,Lacs,Lacs 3,Agbodrafo,WAGES Agbodrafo,6.20972,1.48168,microfinance
+Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,COOPEC Nataan de Bombouaka,10.69407,0.20876,microfinance
+Maritime,Lacs,Lacs 3,Agbodrafo,FUCEC Togo Kpémé,6.2139,1.50459,microfinance
+Maritime,Lacs,Lacs 1,Canton D’Aneho,MECA Amadoté,6.23858,1.6145,microfinance
+Plateaux,Ogou,Ogou 1,Djama,COOPEC AD Agbonou,7.51371,1.15115,microfinance
+Maritime,Lacs,Lacs 1,Canton D’Aneho,WAGES le Sang kongni,6.23948,1.62038,microfinance
+Maritime,Zio,Zio 1,Tsévié,Division des Operations Douanieres de la Region Maritime,6.43216,1.21621,microfinance
+Plateaux,Amou,Amou 3,Témédja,COMEC Temedja,7.51884,1.05895,microfinance
+Plateaux,Ogou,Ogou 1,Djama,Microfinance Millenium Kpotame,7.50914,1.15288,microfinance
+Plateaux,Ogou,Ogou 1,Djama,CECAV Agbonou,7.51646,1.15023,microfinance
+Plateaux,Ogou,Ogou 2,Akparé,COOPEC Ilema de Akpare,7.47477,1.31467,microfinance
+Plateaux,Est-Mono,Est-Mono 3,Nyamassila,COOPEC Nyamassila,7.98759,1.19196,microfinance
+Plateaux,Est-Mono,Est-Mono 1,Elavagnon,COOPEC Elavagnon,7.95583,1.28472,microfinance
+Plateaux,Wawa,Wawa 1,Badou,COOPEC-AD Badou,7.58543,0.6088,microfinance
+Plateaux,Wawa,Wawa 1,Badou,MGPCC dekawowo,7.59274,0.6096,microfinance
+Plateaux,Wawa,Wawa 1,Badou,FUCEC Togo  COOPEC Novissi,7.58479,0.61277,microfinance
+Plateaux,Est-Mono,Est-Mono 2,Morétan,COOPEC Katchere,8.10741,1.35048,microfinance
+Plateaux,Ogou,Ogou 2,Datcha,Assciation Oressan,7.43261,1.16003,microfinance
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tado,FUCEC Togo Tado,7.14602,1.59169,microfinance
+Plateaux,Ogou,Ogou 4,Ountivou,SPEC OIC Togo Atchankoe,7.4313,1.4855,microfinance
+Plateaux,Ogou,Ogou 4,Ountivou,Association Villageoise pour l'Epargne et le Credit,7.43069,1.4851,microfinance
+Plateaux,Ogou,Ogou 3,Gléi,SPEC OIC-Togo Akpaka,7.31455,1.16369,microfinance
+Plateaux,Haho,Haho 1,Atchavé,FECECAV Kpele,6.85776,1.18412,microfinance
+Plateaux,Ogou,Ogou 3,Gléi,COOPEC Ilema de Kpota,7.31842,1.16659,microfinance
+Plateaux,Ogou,Ogou 3,Gléi,COOPEC Novissi de l'Affaire sociale,7.31563,1.16516,microfinance
+Plateaux,Danyi,Danyi 1,Danyi-Atigba,FECECAV Danyi Microfinance,7.20205,0.69308,microfinance
+Plateaux,Danyi,Danyi 1,Danyi-Atigba,FUCEC Togo Apéyémé,7.19837,0.69106,microfinance
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tohoun,SPEC OIC Togo Kpohizouhoe,7.02382,1.61514,microfinance
+Plateaux,Moyen-Mono,Moyen-Mono 2,Kpékplémé,COOPEC ADMEGNONTCHIHOE,7.32593,1.62768,microfinance
+Plateaux,Moyen-Mono,Moyen-Mono 2,Kpékplémé,FUCEC Togo Kpékplémé,7.32848,1.62395,microfinance
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tado,SPEC OIC Togo Tado,7.14335,1.59303,microfinance
+Plateaux,Agou,Agou 1,Agou-Tavié,FUCEC Togo  COOPEC CFAE,6.85106,0.71535,microfinance
+Plateaux,Agou,Agou 1,Agou-Tavié,CECAV Espoir,6.84757,0.71854,microfinance
+Plateaux,Akébou,Akébou 1,Kougnohou,FECECAV Kougnohou,7.65215,0.78919,microfinance
+Plateaux,Akébou,Akébou 1,Kougnohou,FUCEC Togo Kougnohou,7.65474,0.79122,microfinance
+Plateaux,Ogou,Ogou 2,Akparé,SPEC OIC Akpare,7.47279,1.32249,microfinance
+Plateaux,Kloto,Kloto 3,Kouma,CECAV Avenir de Kouma-adame,6.97569,0.59637,microfinance
+Plateaux,Kloto,Kloto 2,Lavié-Apédomé,CECAV Lavie,7.01057,0.67644,microfinance
+Plateaux,Haho,Haho 4,Wahala,Mutuelle Rhema,7.17516,1.16107,microfinance
+Plateaux,Kloto,Kloto 3,Agomé-Tomégbé,CECAV Avenir Tomégbé,6.95429,0.55898,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Sebaders Kpalime,6.92102,0.62085,microfinance
+Plateaux,Haho,Haho 4,Wahala,COOPEC Car-naolou,7.17311,1.16444,microfinance
+Plateaux,Haho,Haho 4,Wahala,OIC-Togo,7.17264,1.16566,microfinance
+Plateaux,Haho,Haho 4,Wahala,FECECAV Zongo,7.17436,1.16543,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,SOGEMEF Lomnava,6.92153,0.63441,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,MGPCC dekawowo,6.91831,0.62419,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,COMEC Kpalime,6.9131,0.62955,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,CECAV Avenir Kpalimé,6.91584,0.62608,microfinance
+Plateaux,Anié,Anié 2,Adogbénou,Pratfig,7.73808,1.438,microfinance
+Plateaux,Anié,Anié 1,Anié,COOPEC AD Anié,7.75759,1.19361,microfinance
+Plateaux,Anié,Anié 1,Anié,WAGES Anié,7.75757,1.19323,microfinance
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,COOPEC-SIFA de Languitaba,11.10196,0.01055,microfinance
+Plateaux,Anié,Anié 1,Anié,FUCEC Togo Anié,7.76344,1.19333,microfinance
+Plateaux,Anié,Anié 1,Anié,Assilassime Solidarité,7.76358,1.19659,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,COOPEC AD Kpalimé,6.9078,0.63223,microfinance
+Plateaux,Amou,Amou 2,Amou-Oblo,COOPEC AD Amou Oblo,7.39148,0.86918,microfinance
+Plateaux,Amou,Amou 2,Amou-Oblo,CECAV Fidélité Amou Oblo,7.3882,0.86733,microfinance
+Plateaux,Amou,Amou 2,Amou-Oblo,MGPCCdekahoho,7.3875,0.86746,microfinance
+Plateaux,Amou,Amou 2,Amou-Oblo,COOPEC Enyo Amou Oblo,7.38826,0.86784,microfinance
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,FECECAV Wetsi,7.12849,0.72889,microfinance
+Savanes,Cinkassé,Cinkassé 2,Sam-Naba,Guichet de Sam-naba,11.0671,0.16424,microfinance
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,COOPEC Enyo Tsèfi,7.13319,0.73166,microfinance
+Plateaux,Kpélé,Kpélé 2,Kpélé-Centre,FECECAV Hassoupe,7.17226,0.74751,microfinance
+Plateaux,Kpélé,Kpélé 2,Kpélé-Nord,COOPEC Enyo,7.28201,0.80311,microfinance
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,Cooperative Mesona,7.13799,0.73013,microfinance
+Plateaux,Kpélé,Kpélé 2,Kpélé-Nord,FECECAV-fidelité,7.27673,0.80065,microfinance
+Plateaux,Haho,Haho 1,Notsé,FECECAV Agence Notsé,6.94946,1.16515,microfinance
+Plateaux,Haho,Haho 1,Notsé,URCLEC Agence Notsé,6.95109,1.16881,microfinance
+Plateaux,Haho,Haho 1,Notsé,SPEC OIC-Togo Tegbe,6.95416,1.17014,microfinance
+Plateaux,Haho,Haho 1,Notsé,COOPEC AD Notsé,6.95337,1.17186,microfinance
+Plateaux,Haho,Haho 1,Notsé,FUCEC Togo Adimé,6.94846,1.17116,microfinance
+Plateaux,Haho,Haho 1,Notsé,WAGES Notse,6.94837,1.1689,microfinance
+Plateaux,Haho,Haho 1,Notsé,COECEPT Notsé,6.94739,1.1749,microfinance
+Plateaux,Haho,Haho 1,Notsé,FINAM Notsé,6.94699,1.17495,microfinance
+Plateaux,Haho,Haho 1,Notsé,CERCIF Notsé,6.94684,1.17493,microfinance
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,CECAV Fidelite Bodzé,7.08973,0.91045,microfinance
+Plateaux,Haho,Haho 1,Notsé,Rhema Notsé,6.94854,1.16999,microfinance
+Plateaux,Haho,Haho 1,Hahomégbé,SPEC OIC Togo Hahomegbé,6.93249,1.02688,microfinance
+Plateaux,Agou,Agou 1,Gadja,COOPEC CFAE,6.79521,0.79652,microfinance
+Plateaux,Agou,Agou 1,Gadja,CECAV Espoir Avetonou,6.79603,0.79533,microfinance
+Plateaux,Haho,Haho 2,Asrama,COOPEC AD Asrama,7.00334,1.40593,microfinance
+Plateaux,Haho,Haho 2,Asrama,SPEC OIC Asrama,7.00301,1.40365,microfinance
+Plateaux,Agou,Agou 1,Kati,CECAV Espoir de Kati,6.89052,0.84901,microfinance
+Plateaux,Ogou,Ogou 1,Gnagna,COOPEC Novissi de Lomnava,7.52437,1.12875,microfinance
+Plateaux,Anié,Anié 1,Anié,COOPEC Ilema d'Assigamé,7.76074,1.19352,microfinance
+Plateaux,Ogou,Ogou 1,Gnagna,Microfinance dekawowo,7.5302,1.12393,microfinance
+Plateaux,Amou,Amou 1,Amlamé (Ouma),Trésorerie d'Amlame,7.46914,0.9061,microfinance
+Plateaux,Danyi,Danyi 2,Danyi-Elavagnon,FECECAV Duamenyo Elavanyo,7.28161,0.70554,microfinance
+Savanes,Kpendjal-Ouest,Kpendjal-Ouest 2,Papri,UMECTO Papri,10.99299,0.42381,microfinance
+Savanes,Kpendjal-Ouest,Kpendjal-Ouest 2,Namoundjoga,FUCEC Togo Namondjoga,10.89379,0.39398,microfinance
+Savanes,Tandjoaré,Tandjoaré 2,Nano,COOPEC SIFA de Nano,10.70582,0.10843,microfinance
+Savanes,Tandjoaré,Tandjoaré 2,Doukpergou,CMECS Sikbaog,10.63894,0.08356,microfinance
+Savanes,Tandjoaré,Tandjoaré 2,Nano,COOPEC Nataan Agence de Nano,10.70139,0.11325,microfinance
+Savanes,Tandjoaré,Tandjoaré 2,Nano,Amis Financer des Pauvres,10.70231,0.11068,microfinance
+Savanes,Oti,Oti 1,Mango,COOPEC Lumiere Mango,10.3516,0.46892,microfinance
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,CEMEC Cinkanssé,11.09668,0.02933,microfinance
+Savanes,Tône,Tône 3,Lotogou,La Caisse Mutuelle d'epargne et de Credit de LoTogou,10.7983,0.02503,microfinance
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,V.I.Z.A- Togo,11.09612,0.02525,microfinance
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,COOPEC Lando,11.09718,0.02115,microfinance
+Savanes,Kpendjal-Ouest,Kpendjal-Ouest 1,Naki-Est,COOPEC SIFA de Naki Est Centre,10.72989,0.38463,microfinance
+Savanes,Oti,Oti 2,Barkoissi,FUCEC Togo Barkoissi,10.55806,0.30194,microfinance
+Savanes,Oti,Oti 1,Mango,COOPEC SIFA Mango,10.34806,0.4693,microfinance
+Savanes,Oti,Oti 2,Barkoissi,COOPEC SIFA Barkoissi ,10.55707,0.30549,microfinance
+Savanes,Oti,Oti 2,Barkoissi,U-CMECS Lantodim,10.5556,0.30326,microfinance
+Savanes,Kpendjal-Ouest,Kpendjal-Ouest 2,Papri,U-CMECS (union des Caisses Mutuelles D'epargne et de Crédit des Savanes),10.95397,0.4358,microfinance
+Savanes,Cinkassé,Cinkassé 2,Timbou,V.I.Z.A- Togo Natinga,11.03596,0.11642,microfinance
+Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,UMECTO Bombouaka,10.70013,0.2081,microfinance
+Savanes,Tandjoaré,Tandjoaré 1,Tamongue,U-CMECS Tamou,10.59632,0.17473,microfinance
+Savanes,Tône,Tône 1,Dapaong,Microfinance U-CMECS,10.87544,0.19678,microfinance
+Savanes,Tône,Tône 1,Dapaong,Incha Allah Finance,10.8702,0.19866,microfinance
+Savanes,Tône,Tône 1,Dapaong,Microfinance AFP,10.86974,0.20156,microfinance
+Savanes,Tône,Tône 1,Dapaong,Direction COOPEC- SIFA,10.86534,0.19992,microfinance
+Savanes,Tône,Tône 1,Dapaong,UMECTO Napiengue,10.86282,0.20346,microfinance
+Savanes,Oti-Sud,Oti-Sud 1,Sagbiebou,U-CMECS Sagbiebou,10.24595,0.64511,microfinance
+Savanes,Oti-Sud,Oti-Sud 1,Gando,FUCEC Togo -Togo (COOPEC Lumière Agence Kando ),10.33152,0.74503,microfinance
+Savanes,Oti-Sud,Oti-Sud 1,Gando,COOPEC SIFA Gando Centre,10.33392,0.74838,microfinance
+Savanes,Tône,Tône 1,Dapaong,FUCEC Togo  COOPEC Lando,10.88203,0.19356,microfinance
+Savanes,Tône,Tône 1,Dapaong,COOPEC AD Dapaong,10.86757,0.20621,microfinance
+Savanes,Tône,Tône 1,Dapaong,CECAV Dapaong,10.86211,0.20455,microfinance
+Savanes,Oti,Oti 1,Mango,Transfert d'argent Al-izza,10.3542,0.47042,microfinance
+Savanes,Oti-Sud,Oti-Sud 2,Takpamba,COOPEC SIFA Takpamba,9.97087,0.57885,microfinance
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,FUCEC Kpalime,6.91448,0.63341,microfinance
+Maritime,Lacs,Lacs 3,Agbodrafo,Agence de la poste Agbodrafo,6.20784,1.47786,poste
+Maritime,Lacs,Lacs 2,Aklakou,Agence de la poste Aklakou,6.33526,1.70979,poste
+Maritime,Lacs,Lacs 4,Anfoin,Agence de la poste Anfoin,6.32866,1.60695,poste
+Centrale,Mô,Mô 1,Djarkpanga,Agence de la poste Djarkpanga,8.78292,0.56408,poste
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Agence de la poste Sokode,8.98508,1.14036,poste
+Centrale,Tchaoudjo,Tchaoudjo 1,Kpangalam,Agence de la poste Sokodé Kpangalam,9.00962,1.13625,poste
+Centrale,Tchamba,Tchamba 2,Koussountou,Agence de la poste Koussountou,8.83733,1.51708,poste
+Centrale,Tchamba,Tchamba 3,Kaboli,Agence de la poste Kaboli,8.74815,1.59601,poste
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,Agence de la poste Sotouboua,8.5644,0.97761,poste
+Centrale,Tchamba,Tchamba 1,Tchamba,Agence de la poste Tchamba,9.02054,1.41778,poste
+Centrale,Sotouboua,Sotouboua 2,Adjengré,Agence de la poste Adjengre,8.6593,1.01907,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agence de la poste Atchanvé,6.22613,1.21259,poste
+Centrale,Blitta,Blitta 1,Blitta,Agence de la poste Blitta,8.32461,0.97827,poste
+Centrale,Blitta,Blitta 1,Pagala-Gare,Agence de la poste Pagala Gare,8.18388,0.965,poste
+Centrale,Blitta,Blitta 2,Agbandi,Point Poste Agbandi,8.227,1.13457,poste
+Centrale,Tchaoudjo,Tchaoudjo 3,Aléhéridè,Point Poste Aleheride,9.20685,1.20108,poste
+Maritime,Golfe,Golfe 6,Baguida,Agence de la poste Baguida,6.16837,1.32606,poste
+Maritime,Golfe,Golfe 6,Baguida,Franchise Postale Avepozo,6.1693,1.34471,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Franchise Postale Adetikope,6.31763,1.21686,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agence de la poste Agbalepedogan,6.19845,1.20111,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Agence de la poste Télessou,6.219,1.16866,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Franchise Postale Zossime,6.23329,1.14911,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agence de la poste Agoe Assiyeye,6.23097,1.19859,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Agence de la poste Agoe Zongo,6.25382,1.20935,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Franchise Postale D'Agoe Adjougba,6.23196,1.22229,poste
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Agence de la poste Adidogomé,6.18025,1.17217,poste
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Agence de la poste Apédokoè,6.20402,1.14417,poste
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Franchise Postale Segbe,6.19371,1.11928,poste
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Agence de la poste Avedji,6.19997,1.18183,poste
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Franchise Postale Amadahome,6.20442,1.16492,poste
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence de la poste Atikoume,6.16935,1.20322,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Franchise Postale Sanguera,6.22777,1.11715,poste
+Maritime,Golfe,Golfe 2,Bè-Centre,Agence de la poste Aeroport,6.16822,1.25157,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Franchise Postale Legbassito,6.26727,1.14957,poste
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence de la poste Gbonvie,6.15228,1.22088,poste
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence de la poste Wuiti,6.16452,1.2339,poste
+Maritime,Golfe,Golfe 4,Amoutivé,Agence de la poste Nyekonakpoe,6.12738,1.20902,poste
+Maritime,Golfe,Golfe 2,Bè-Centre,Agence de la poste Hedzranawoe,6.1818,1.24048,poste
+Maritime,Golfe,Golfe 1,Bè-Est,Agence de la poste EMS,6.14098,1.24571,poste
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence de la poste Kegue,6.20119,1.24055,poste
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence de la poste Tokoin Seminaire,6.14847,1.20888,poste
+Maritime,Golfe,Golfe 4,Amoutivé,Agence de la poste Centrale de Lome,6.13385,1.22351,poste
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence de la poste Doumassesse,6.16312,1.21564,poste
+Kara,Kéran,Kéran 1,Kantè,Agence de la poste Kante,9.95967,1.04716,poste
+Kara,Assoli,Assoli 1,Bafilo,Agence de la poste Bafilo,9.35674,1.24272,poste
+Kara,Binah,Binah 1,Pagouda,Agence de la poste Pagouda,9.7504,1.32545,poste
+Kara,Binah,Binah 2,Kétao,Agence de la poste Ketao,9.65886,1.30833,poste
+Kara,Dankpen,Dankpen 1,Guérin-Kouka,Agence de la poste Guérin Kouka,9.68508,0.60878,poste
+Kara,Kozah,Kozah 1,Commune De Kara,Agence de la poste Cofac Kara,9.54813,1.19492,poste
+Kara,Kozah,Kozah 2,Pya,Agence de la poste Pya,9.65308,1.1445,poste
+Kara,Kozah,Kozah 1,Commune De Kara,Agence de la poste Kara,9.54995,1.18967,poste
+Kara,Bassar,Bassar 1,Bassar,Agence de la poste Bassar,9.26213,0.77955,poste
+Kara,Bassar,Bassar 3,Kabou,Agence de la poste Kabou,9.45433,0.81145,poste
+Kara,Doufelgou,Doufelgou 1,Niamtougou,Agence de la poste Niamtougou,9.76592,1.10858,poste
+Kara,Dankpen,Dankpen 3,Bapuré,Point Poste Bapuré,9.525,0.61571,poste
+Kara,Doufelgou,Doufelgou 1,Siou,Point Poste Siou,9.82084,1.20145,poste
+Kara,Kozah,Kozah 4,Atchangbadè,Point Poste Atchangbade,9.47943,1.13219,poste
+Kara,Bassar,Bassar 2,Bangeli,Point Poste Bangeli,9.42206,0.62457,poste
+Kara,Kozah,Kozah 2,Kouméa,Point Poste Koumea,9.69405,1.17688,poste
+Maritime,Yoto,Yoto 1,Tabligbo,Agence de la poste Tabligbo ,6.58839,1.50036,poste
+Maritime,Zio,Zio 1,Djagblé,Franchise Postale Djagble,6.25077,1.28114,poste
+Maritime,Zio,Zio 3,Agbélouvé,Agence de la poste Agbelouve,6.67163,1.16777,poste
+Maritime,Avé,Avé 1,Kévé,Agence de la poste Keve,6.43539,0.92421,poste
+Maritime,Bas-Mono,Bas-Mono 1,Afagnan-Gbléta,Agence de la poste Afagnan Gbleta,6.49693,1.61843,poste
+Maritime,Lacs,Lacs 1,Aného,Agence de la poste Aneho,6.2281,1.59747,poste
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tohoun,Agence de la poste Tohoun,7.02393,1.61684,poste
+Plateaux,Est-Mono,Est-Mono 1,Elavagnon,Agence de la poste Elavagnon,7.95935,1.28569,poste
+Plateaux,Wawa,Wawa 1,Badou,Agence de la poste Badou,7.5856,0.60844,poste
+Plateaux,Amou,Amou 3,Hihéatro,Agence de la poste Hiheatro,7.53425,1.10399,poste
+Plateaux,Ogou,Ogou 3,Gléi,Agence de la poste Gléi,7.30564,1.16258,poste
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Agence de la poste Kpalime ,6.90792,0.63176,poste
+Plateaux,Akébou,Akébou 1,Kougnohou,Agence de la poste Kougnohou,7.65637,0.78755,poste
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,Agence de la poste Kpele Adeta,7.12822,0.73169,poste
+Plateaux,Kpélé,Kpélé 2,Kpélé-Nord,Agence de la poste Kpele Ele,7.27788,0.80134,poste
+Plateaux,Ogou,Ogou 1,Djama,Agence de la poste Agbonou,7.52439,1.14849,poste
+Savanes,Oti-Sud,Oti-Sud 1,Gando,Point Poste Gando,10.32691,0.74253,poste
+Plateaux,Anié,Anié 1,Anié,Agence de la poste Anie,7.75807,1.19142,poste
+Plateaux,Amou,Amou 2,Amou-Oblo,Franchise Postale Amou Oblo,7.38417,0.86581,poste
+Plateaux,Haho,Haho 1,Notsé,Agence de la poste Notse,6.94988,1.17359,poste
+Plateaux,Haho,Haho 2,Asrama,Point Poste Asrama,7.00451,1.40477,poste
+Plateaux,Agou,Agou 1,Agou-Tavié,Agence de la poste Agou,6.84405,0.71635,poste
+Savanes,Tône,Tône 1,Dapaong,Agence de la poste Dapaong,10.86291,0.20313,poste
+Savanes,Tandjoaré,Tandjoaré 1,Bombouaka,Agence de la poste Bombouaka,10.69958,0.20756,poste
+Plateaux,Ogou,Ogou 1,Djama,Agence de la poste Atakpame (plateaux),7.53256,1.12463,poste
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Agence de la poste Cinkassé,11.11093,0.01247,poste
+Savanes,Oti,Oti 2,Barkoissi,Agence de la poste Barkoissi,10.55774,0.30571,poste
+Savanes,Kpendjal,Kpendjal 1,Mandouri,Agence de la poste Mandouri,10.84623,0.81677,poste
+Savanes,Oti,Oti 1,Mango,Agence de la poste Mango,10.3573,0.47198,poste
+Maritime,Golfe,Golfe 1,Bè-Est,Agence de la poste Adakpame,6.17024,1.2895,poste
+Maritime,Zio,Zio 1,Tsévié,Agence de la poste de Tsevié,6.42397,1.21,poste
+Maritime,Vo,Vo 4,Hahotoé,Agence de la poste Hahotoé,6.36141,1.40901,poste
+Maritime,Vo,Vo 1,Vogan,Agence de la poste de vogan,6.33505,1.52952,poste
+Maritime,Yoto,Yoto 2,Ahépé,Agence de poste Ahépé,6.60725,1.3965,poste
+Plateaux,Amou,Amou 1,Amlamé (Ouma),Agence postale Amlame,7.45831,0.90224,poste
+Plateaux,Danyi,Danyi 1,Danyi-Atigba,Agence de la poste Danyi Apeyeme,7.19915,0.69147,poste
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Utb D Adidoadin,6.20639,1.18966,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agence Utb Agoe Nyive,6.21797,1.2085,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nsp,6.25599,1.16867,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Bank Of Africa,6.21742,1.20832,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nsp,6.20197,1.20794,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nsp,6.23446,1.19527,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nsp,6.19833,1.20048,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nsp,6.21713,1.2094,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Nsp,6.21743,1.18794,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Nsp,6.21623,1.17142,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Orabank Agence Terminal Du Sahel,6.26892,1.21007,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Ib Bank Agence De Zongo,6.26082,1.20772,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Dab Zopomahé,6.23323,1.14533,distributeur
+Maritime,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Nsp,6.32385,1.21783,distributeur
+Maritime,Avé,Avé 1,Assahoun,Orabank,6.45484,0.91024,distributeur
+Maritime,Avé,Avé 1,Assahoun,Utb Assahoun,6.45636,0.90961,distributeur
+Maritime,Vo,Vo 1,Vogan,Bank Utb,6.34056,1.52355,distributeur
+Maritime,Vo,Vo 1,Vogan,Sunu Bank,6.3355,1.52897,distributeur
+Maritime,Vo,Vo 1,Vogan,Nsp,6.33735,1.52666,distributeur
+Maritime,Yoto,Yoto 1,Tabligbo,Banque Atlantique,6.58045,1.5107,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Banque Atlantique,6.12887,1.22178,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Ecobank,6.14651,1.21916,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Utb Kwadjoviakope,6.11371,1.19975,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Agence Utb Boulevard Est,6.13118,1.23665,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Agence Utb Media Plus,6.13668,1.22716,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Utb,6.12668,1.21001,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Ecobank,6.12921,1.22151,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Corisbank Atikoumé,6.16552,1.20252,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Nsia Banque,6.12372,1.22428,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Utb D Adawlato,6.12469,1.22455,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Btci,6.12596,1.2252,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Ecobank,6.12388,1.22611,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Ecobank,6.13695,1.22582,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Nsp,6.13671,1.21125,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Nsp,6.14161,1.20783,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Bsic-togo Sa,6.13548,1.23046,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Nsp,6.13062,1.21227,distributeur
+Maritime,Golfe,Golfe 4,Amoutivé,Nsp,6.13821,1.22912,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Btci Agbalepedo,6.19762,1.20051,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Ecobank Adidogome,6.1969,1.15261,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Utb Adidogome,6.17393,1.18448,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Nsia Banque Adidogomé,6.17329,1.18597,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Utb Totsi,6.19655,1.18758,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Corisbank,6.19797,1.15136,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Ecobank Adidogomé Amenopé,6.19679,1.15261,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Nsp,6.17068,1.19291,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Total Adidogome,6.18452,1.16754,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Nsp,6.19895,1.18007,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Nsp,6.20516,1.19003,distributeur
+Maritime,Golfe,Golfe 5,Aflao-Gakli,Nsp,6.19346,1.18992,distributeur
+Maritime,Golfe,Golfe 6,Baguida,BANQUE ATLANTIQUE,6.16125,1.31585,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Bia Togo,6.16118,1.31566,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Bank Of Africa,6.16255,1.3206,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Btci Baguida,6.16754,1.33821,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Nsia Baguida,6.16653,1.33485,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Coris Bank,6.16837,1.34097,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Orabank Baguida,6.16467,1.32855,distributeur
+Maritime,Golfe,Golfe 6,Baguida,Ecobank,6.16434,1.32698,distributeur
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Btci Adidogome Assiyeye,6.20114,1.1474,distributeur
+Maritime,Golfe,Golfe 7,Aflao-Sagbado,Bia Togo Avenou,6.18104,1.16471,distributeur
+Maritime,Yoto,Yoto 2,Ahépé,Nsp,6.60711,1.39647,distributeur
+Maritime,Yoto,Yoto 3,Tokpli,Nsp,6.62579,1.56732,distributeur
+Maritime,Zio,Zio 1,Tsévié,Orabank,6.43426,1.21182,distributeur
+Maritime,Zio,Zio 1,Tsévié,Sunu Bank Tsevie,6.41715,1.21166,distributeur
+Maritime,Zio,Zio 1,Tsévié,Utb Tsevie,6.42352,1.21286,distributeur
+Maritime,Zio,Zio 1,Tsévié,Nsp,6.42988,1.21277,distributeur
+Plateaux,Anié,Anié 1,Anié,Nsp,7.75875,1.19302,distributeur
+Plateaux,Anié,Anié 1,Anié,Nsp,7.76487,1.19278,distributeur
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Ib Bank Togo,6.92142,0.63433,distributeur
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Orabank,6.90098,0.63004,distributeur
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Utb Kpalime,6.90671,0.63294,distributeur
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Sunu Bank Kpalime,6.91253,0.63238,distributeur
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Ecobank Kpalime,6.90699,0.63233,distributeur
+Plateaux,Kloto,Kloto 1,Agome-Kpalime,Bsic Togo Kpalime,6.90726,0.63224,distributeur
+Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,Nsp,7.12094,0.73167,distributeur
+Plateaux,Moyen-Mono,Moyen-Mono 1,Tohoun,Nsp,7.02259,1.60509,distributeur
+Plateaux,Ogou,Ogou 1,Djama,Banque Internationale D'afrique,7.53313,1.12187,distributeur
+Plateaux,Ogou,Ogou 1,Djama,Nsp,7.50749,1.15359,distributeur
+Plateaux,Ogou,Ogou 1,Gnagna,Banque Atlantique,7.53192,1.1221,distributeur
+Plateaux,Ogou,Ogou 1,Gnagna,Ecobank,7.53168,1.12281,distributeur
+Plateaux,Ogou,Ogou 1,Gnagna,Bank Of Africa,7.5191,1.14117,distributeur
+Plateaux,Ogou,Ogou 1,Gnagna,Nsp,7.532,1.12233,distributeur
+Plateaux,Wawa,Wawa 1,Badou,Orabank,7.585,0.60654,distributeur
+Centrale,Blitta,Blitta 1,Blitta,Union Des Banques Du Togo,8.33113,0.98632,distributeur
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,Sunu Bank De Sotouboua,8.56461,0.97893,distributeur
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,Orabank De Sotouboua,8.56084,0.9752,distributeur
+Centrale,Sotouboua,Sotouboua 1,Sotouboua,Utb De Sotouboua,8.56123,0.97617,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Ecobank Sokode,8.98841,1.13936,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Sunu Bank Sokode,8.97382,1.13619,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Btci Sokode,8.98873,1.13888,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Bank Of Africa,8.98787,1.13966,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Orabank Sokode,8.98769,1.1352,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Bsic,8.99047,1.13806,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Banque Atlantique Sokode,8.98759,1.13975,distributeur
+Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),La Poste De Sokode,8.985,1.14033,distributeur
+Kara,Assoli,Assoli 1,Bafilo,Nsp,9.35677,1.24285,distributeur
+Kara,Bassar,Bassar 1,Bassar,Nsp,9.25705,0.78518,distributeur
+Kara,Bassar,Bassar 3,Kabou,Btci,9.45631,0.81317,distributeur
+Kara,Binah,Binah 2,Kétao,Guichet Automatique Orabanque,9.66003,1.3052,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Nsp,9.54927,1.18976,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Banque Bsic,9.54807,1.19227,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Utb Kara,9.5574,1.1839,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Banque Atlantique,9.55037,1.1891,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Agence Ecobank Kara,9.54899,1.18984,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Nsia Banque,9.54899,1.18945,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Orabank,9.55055,1.18908,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Poste Cofac,9.54831,1.195,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Bia Togo,9.54737,1.19257,distributeur
+Kara,Kozah,Kozah 1,Commune De Kara,Corisbank,9.54878,1.19636,distributeur
+Savanes,Tône,Tône 1,Dapaong,Btci De Dapaong,10.85013,0.20243,distributeur
+Savanes,Tône,Tône 1,Dapaong,Utb De Dapaong,10.86076,0.20547,distributeur
+Savanes,Tône,Tône 1,Dapaong,Bsic-togo De Dapaong,10.87641,0.20022,distributeur
+Savanes,Tône,Tône 1,Dapaong,Sunu Bank De Dapaong,10.88365,0.19976,distributeur
+Savanes,Tône,Tône 1,Dapaong,Banque Atlantique De Dapaong,10.86551,0.20305,distributeur
+Savanes,Tône,Tône 1,Dapaong,Orabank De Dapaong,10.8769,0.20057,distributeur
+Savanes,Tône,Tône 1,Dapaong,Ecobank De Dapaong,10.86957,0.20214,distributeur
+Savanes,Tône,Tône 1,Dapaong,Bia Togo De Dapaong,10.87214,0.20174,distributeur
+Savanes,Tône,Tône 1,Dapaong,Poste De Dapaong,10.86294,0.2034,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Orabank,11.09737,0.02154,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,BSIC,11.10712,0.01386,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Banque Atlantique,11.10258,0.01651,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Nsp,11.09628,0.026,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Corisbank,11.09703,0.02268,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,NSIA,11.10073,0.01751,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,UTB,11.10264,0.01602,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,Ecobank,11.10228,0.01627,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,BTCI,11.11046,0.01243,distributeur
+Savanes,Cinkassé,Cinkassé 1,Cinkassé,SUNU,11.09718,0.02087,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Utb Hedzranawoe,6.18264,1.2405,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Utb Novissi Jean Paul 2,6.17443,1.23456,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsia Banque,6.18045,1.24,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsp,6.1707,1.25309,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Ecobank Hedzranawoe,6.18265,1.24054,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsp,6.16173,1.23435,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsp,6.17955,1.24065,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Bia Togo,6.18095,1.2399,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Atlantique Banque,6.17901,1.24008,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsp,6.15363,1.2329,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Bank Of Africa,6.17661,1.24078,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsp,6.20469,1.24226,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Nsp,6.17073,1.25302,distributeur
+Maritime,Golfe,Golfe 2,Bè-Centre,Orabank Aeroport International Gnassingbe Eyadema,6.17042,1.25359,distributeur
+Plateaux,Haho,Haho 1,Notsé,Orabank Notse,6.94865,1.16763,distributeur
+Plateaux,Haho,Haho 1,Notsé,Utb Notse,6.94395,1.1735,distributeur
+Centrale,Sotouboua,Sotouboua 2,Adjengré,Societe Des Postes Du Togo De Adjengre,8.65937,1.01907,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Utb Tokoin Tresor,6.15324,1.21715,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Utb Sgi,6.18807,1.21202,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence Utb Campus,6.16291,1.21323,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Bia Togo,6.15106,1.21784,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Orabank Agbalepedo,6.19186,1.20853,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Banque Atlantique,6.19132,1.20838,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Bsic De Klikame,6.17959,1.20538,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsia Banque,6.18844,1.20758,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.16928,1.2031,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.15483,1.21727,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.18871,1.21273,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.1814,1.21794,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Ecobank,6.16904,1.21428,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Agence Coris Bank International,6.16436,1.22273,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.18939,1.20819,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.1871,1.20982,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Orabank De Universite De Lome,6.18124,1.21409,distributeur
+Maritime,Golfe,Golfe 3,Bè-Ouest,Nsp,6.18567,1.21346,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Utb Be Kprhenou,6.13841,1.23678,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Btci Lome Port,6.14311,1.27573,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Corisbank,6.13363,1.23564,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Utb Be Kpota,6.15811,1.25511,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Utb Port,6.14372,1.27502,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Ecobank,6.13588,1.25833,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Banque Atlantique Lome Port,6.14346,1.27529,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Siab D'akodessewa,6.1588,1.28386,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Banque Atlantique Zoro Bar,6.15889,1.2845,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Société Des Postes Du Togo,6.14405,1.27562,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Utb Guce Port,6.14361,1.27484,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Sgt Lome Port,6.14327,1.27441,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Nsp,6.14284,1.27453,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Nsp,6.14295,1.27452,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Orabank,6.14349,1.27433,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Ecobank Akodessewa,6.15302,1.26574,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Sunu Bank Akodessewa,6.14089,1.24106,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Hôtel Sarakawa,6.13719,1.26567,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Hôtel Sarakawa,6.13718,1.2656,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Coris Bank,6.15851,1.28462,distributeur
+Maritime,Golfe,Golfe 1,Bè-Est,Nsp,6.13804,1.26576,distributeur

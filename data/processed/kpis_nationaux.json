@@ -1,0 +1,16 @@
+{
+  "population_totale": 8095498,
+  "nb_agences_total": 90,
+  "nb_agences_moov": 28,
+  "nb_agences_togocom": 62,
+  "nb_agences_canal": 0,
+  "nb_datacenters": 3,
+  "nb_datacenters_lome": 3,
+  "nb_agents_mobile_money": 19788,
+  "nb_cantons_total": 372,
+  "nb_cantons_sans_agence": 326,
+  "nb_cantons_sans_mobile_money": 0,
+  "nb_communes_total": 117,
+  "nb_communes_sans_agence": 74,
+  "nb_prefectures": 39
+}
