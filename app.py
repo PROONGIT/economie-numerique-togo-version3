@@ -380,7 +380,7 @@ elif page == "map":
                 if col_name in agg_reg.columns:
                     fig.add_trace(go.Bar(
                         x=agg_reg["region"], y=agg_reg[col_name],
-                        name=label, marker_color=color, borderradius=4))
+                        name=label, marker_color=color))
             fig.update_layout(**PLOT_KW, height=300, barmode="group",
                               legend=dict(orientation="h", y=1.08))
             st.plotly_chart(fig, use_container_width=True)
