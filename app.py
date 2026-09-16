@@ -666,45 +666,42 @@ elif page == "services":
     st.markdown("###")
 
     tab_bank, tab_mfi = st.tabs([
-        "🏦 Banques & distributeurs" if lang=="fr" else "🏦 Banks & ATMs",
-        "🤝 Microfinance & Poste"
+        "🏦 Cartograhie des banques" if lang=="fr" else "🏦 Banks Map",
+        "🤝 Graphiques par région & préfecture" if lang=="fr" else "Charts per region & prefecture"
     ])
 
-    with tab_bank:
-        col_map, col_chart = st.columns([1.3,1])
-        with col_map:
-            st.markdown(f"##### {'Banques par canton' if lang=='fr' else 'Banks by canton'}")
-            choropleth("n_banques",
-                       "Nb banques" if lang=="fr" else "Nb banks",
-                       colorscale="Blues",
-                       regions=sel_regions_eff, height=500)
-        with col_chart:
-            if not gr_f.empty and "n_banques" in gr_f.columns:
-                fig = px.bar(gr_f, x="region", y=["n_banques","n_distributeurs"],
-                             barmode="group",
-                             color_discrete_sequence=[T["green"],T["yellow"]])
-                fig.update_layout(**PLOT_KW, height=400,
-                                  legend=dict(orientation="h",y=1.05))
-                st.plotly_chart(fig, use_container_width=True)
-
+    with tab_bank:    
+        st.markdown(f"##### {'Banques par canton' if lang=='fr' else 'Banks by canton'}")
+        choropleth("n_banques",
+                   "Nb banques" if lang=="fr" else "Nb banks",
+                   colorscale="Blues",
+                   regions=sel_regions_eff, height=500)
+       
     with tab_mfi:
-        col_map2, col_chart2 = st.columns([1.3,1])
-        
-        with col_chart2:
-            if not gr_f.empty and "n_mfi" in gr_f.columns:
-                fig2 = px.bar(gr_f, x="region", y=["n_mfi","n_poste"],
-                              barmode="group",
-                              color_discrete_sequence=[T["green"],T["yellow"]])
-                fig2.update_layout(**PLOT_KW, height=400,
-                                   legend=dict(orientation="h",y=1.05))
-                st.plotly_chart(fig2, use_container_width=True)
-
-        with col_map2:
-            st.markdown(f"##### {'Microfinances par canton' if lang=='fr' else 'Microfinance by canton'}")
-            choropleth("n_mfi",
-                       "Nb microfinances",
-                       colorscale="Greens",
-                       regions=sel_regions_eff, height=500)
+        # Graphique par région
+        if not gr_f.empty:
+            service_cols = {"n_banques":"Banques","n_mfi":"Microfinances",
+                            "n_poste":"Poste","n_distributeurs":"ATM"}
+            avail = {k:v for k,v in service_cols.items() if k in gr_f.columns}
+            if avail:
+                st.markdown(f"##### {'Répartition des services financiers par région' if lang=='fr' else 'Financial services by region'}")
+                df_long = gr_f[["region"]+list(avail.keys())].melt(id_vars="region",
+                    var_name="type", value_name="count")
+                df_long["type"] = df_long["type"].map(avail)
+                fig = px.bar(df_long, x="region", y="count", color="type", barmode="group",
+                    color_discrete_sequence=[T["green"],T["yellow"],T["red"],"#7E57C2"])
+                fig.update_layout(**PLOT_KW, height=420, legend=dict(orientation="h",y=1.05))
+                st.plotly_chart(fig, use_container_width=True)
+    
+        # Barres horizontales par préfecture (microfinance)
+        if not gp_f.empty and "n_mfi" in gp_f.columns:
+            st.markdown(f"##### {'Microfinances par préfecture' if lang=='fr' else 'Microfinance by prefecture'}")
+            d = gp_f.sort_values("n_mfi", ascending=False)
+            fig2 = px.bar(d, x="n_mfi", y="prefecture", orientation="h",
+                color="n_mfi", color_continuous_scale=[T["yellow"],T["green"]],
+                hover_data={"region":True,"n_banques":True,"n_poste":True})
+            fig2.update_layout(**PLOT_KW, height=max(400,26*len(d)), coloraxis_showscale=False)
+            st.plotly_chart(fig2, use_container_width=True)
 
     # Analyse dynamique
     mar_b  = ind_canton[ind_canton["region"]=="Maritime"]["n_banques"].sum()
