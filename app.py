@@ -719,23 +719,43 @@ elif page == "services":
             pct_distrib_maritime=round(mar_d/tot_d*100) if tot_d else 0),
         n_mfi_hors_maritime=mfi_hm, pct_mfi_hors=pct_mfi,
         n_distrib_maritime=int(mar_d), n_distrib_total=int(tot_d)))
-
+    
     # Ratio services financiers / population par région
-    # CODE DE DIAGNOSTIC - À REMPLACER TOTALEMENT
     if not agg_reg.empty and "population" in agg_reg.columns:
         st.markdown("###")
         st.markdown(f"##### {'Ratio services financiers pour 100 000 habitants' if lang=='fr' else 'Financial services per 100,000 inhabitants'}")
         
-        # --- ZONE DE DIAGNOSTIC ---
-        st.subheader("🔍 Mode Diagnostic (Sera supprimé après correction)")
+        # On crée une copie propre pour ne pas altérer le dataframe original
+        merged = agg_reg.copy()
         
-        st.write("**1. Colonnes de agg_reg :**", list(agg_reg.columns))
-        st.write("**2. Régions uniques dans agg_reg :**", list(agg_reg["region"].unique()) if "region" in agg_reg.columns else "⚠️ Colonne 'region' absente !")
+        # 1. Remplacement des NaN par 0 et calcul des ratios pour 100k habitants
+        for col in ["n_banques", "n_mfi", "n_poste", "n_distributeurs"]:
+            if col in merged.columns:
+                merged[col] = merged[col].fillna(0)
+                merged[col+"_100k"] = (merged[col] / merged["population"] * 100000).round(1)
+                
+        ratio_cols = [c for c in merged.columns if c.endswith("_100k")]
         
-        st.write("**3. Colonnes de gr_f :**", list(gr_f.columns))
-        st.write("**4. Régions uniques dans gr_f :**", list(gr_f["region"].unique()) if "region" in gr_f.columns else "⚠️ Colonne 'region' absente !")
-        # ---------------------------
-
+        # 2. Affichage du graphique si les colonnes de ratio existent
+        if ratio_cols:
+            fig3 = go.Figure()
+            colors_svc = [T["green"], T["yellow"], T["red"], "#7A4FA0"]
+            
+            for i, (col_s, lbl) in enumerate([("n_banques_100k", "Banques"),
+                                             ("n_mfi_100k", "MFI"),
+                                             ("n_poste_100k", "Poste"),
+                                             ("n_distributeurs_100k", "ATM")]):
+                if col_s in merged.columns:
+                    fig3.add_trace(go.Bar(
+                        x=merged["region"], y=merged[col_s],
+                        name=lbl, marker_color=colors_svc[i]))  # <-- Garanti sans borderradius
+                        
+            fig3.update_layout(**PLOT_KW, height=360, barmode="group",
+                               yaxis_title="Pour 100 000 hab.",
+                               legend=dict(orientation="h", y=1.05))
+            st.plotly_chart(fig3, use_container_width=True)
+        else:
+            st.warning("Aucune donnée financière disponible pour calculer le ratio par région.")
 
 
     st.subheader("Détail par préfecture" if lang=="fr" else "Detail by prefecture")
