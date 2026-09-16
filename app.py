@@ -689,12 +689,7 @@ elif page == "services":
 
     with tab_mfi:
         col_map2, col_chart2 = st.columns([1.3,1])
-        with col_map2:
-            st.markdown(f"##### {'Microfinances par canton' if lang=='fr' else 'Microfinance by canton'}")
-            choropleth("n_mfi",
-                       "Nb microfinances",
-                       colorscale="Greens",
-                       regions=sel_regions_eff, height=500)
+        
         with col_chart2:
             if not gr_f.empty and "n_mfi" in gr_f.columns:
                 fig2 = px.bar(gr_f, x="region", y=["n_mfi","n_poste"],
@@ -703,6 +698,13 @@ elif page == "services":
                 fig2.update_layout(**PLOT_KW, height=400,
                                    legend=dict(orientation="h",y=1.05))
                 st.plotly_chart(fig2, use_container_width=True)
+
+        with col_map2:
+            st.markdown(f"##### {'Microfinances par canton' if lang=='fr' else 'Microfinance by canton'}")
+            choropleth("n_mfi",
+                       "Nb microfinances",
+                       colorscale="Greens",
+                       regions=sel_regions_eff, height=500)
 
     # Analyse dynamique
     mar_b  = ind_canton[ind_canton["region"]=="Maritime"]["n_banques"].sum()
